@@ -5,3 +5,10 @@ You want to run the following commonds on you commaon line to run the web server
 -python -m venv myproject
 - myproject\Scripts\activate
 - pip install Flask twilio
+
+
+Other peoples shit we are using
+
+- Flask
+- Spotipy
+- 
