@@ -45,10 +45,10 @@ def get_songs_features(ids):
     key = features[0]['key']
     time_signature = features[0]['time_signature']
 
-    track = [name, album, artist, ids, release_date, popularity, length, danceability, acousticness,
-            energy, instrumentalness, liveness, valence, loudness, speechiness, tempo, key, time_signature]
-    columns = ['name','album','artist','id','release_date','popularity','length','danceability','acousticness','energy','instrumentalness',
-                'liveness','valence','loudness','speechiness','tempo','key','time_signature']
+    track = [popularity, danceability, acousticness, energy, instrumentalness, liveness, valence, loudness, speechiness, tempo, 
+             key, time_signature]
+    columns = ['popularity','danceability','acousticness','energy','instrumentalness','liveness','valence','loudness','speechiness',
+               'tempo','key', 'time_signature']
     return track,columns
 
 def download_playlist(id_playlist,n_songs):
@@ -69,16 +69,17 @@ def download_playlist(id_playlist,n_songs):
         tracks.append(track)
 
         print(f"Song {counter} Added:")
-        print(f"{track[0]} By {track[2]} from the album {track[1]}")
         clear_output(wait = True)
         counter+=1
     
     clear_output(wait = True)
     print("Music Downloaded!")
 
-    return tracks,columns
+    return tracks, columns
 
 tracks, columns = download_playlist('0522MSmE2fPrk4kSiJ70tw',11)
 df1 = pd.DataFrame(tracks,columns=columns)
+print(df1)
 df1.head()
 df1.to_csv('df2.csv',index=False)
+df1.describe()
