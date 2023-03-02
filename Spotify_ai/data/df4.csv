@@ -1,0 +1,46 @@
+name,album,artist,id,release_date,popularity,length,danceability,acousticness,energy,instrumentalness,liveness,valence,loudness,speechiness,tempo,key,time_signature,Mood
+You Say - Piano/Vocal,You Say (Piano/Vocal),Lauren Daigle,7i7lbzxW5XIUH04tOVNc0D,2019-01-25,48,276137,0.555,0.885,0.344,0.0,0.109,0.238,-7.04,0.0268,147.893,5,4,calm
+Nothing’s Gonna Happen,Good Woman,The Staves,4WM5HfHQZ0N4o8HDNwRmRk,2021-02-05,49,216746,0.36,0.77,0.209,5.1e-05,0.129,0.213,-12.289,0.0322,75.349,2,4,calm
+Living Proof,Living Proof,The War On Drugs,6bIXN4xCot0hiEfzl2xFZR,2021-07-19,1,293866,0.604,0.892,0.157,0.169,0.113,0.126,-14.174,0.0315,116.032,9,4,calm
+Sapling,Sapling / Signs Of Life,Foy Vance,3pMbjkN5k9z6kZ2bcEZH1s,2021-05-27,52,257853,0.447,0.585,0.458,0.000422,0.105,0.158,-8.532,0.0702,129.861,10,4,calm
+Sweet awakening,Sweet awakening,RIOPY,45RSaYVNGZhdpjbqcAukYI,2021-06-18,33,155946,0.408,0.991,0.0877,0.923,0.107,0.123,-19.623,0.0388,75.115,9,4,calm
+Surrender,Surrender,Birdy,65cQkOFngSgj37Gnzp4ry4,2021-01-22,51,234240,0.353,0.661,0.386,0.000231,0.0806,0.269,-10.927,0.045,147.808,0,4,calm
+Symmetry - Dark Version,Symmetry (Dark Version),SYML,6xgMqv60ltHfEn3o8cbkET,2020-02-28,0,233200,0.444,0.977,0.036,0.00458,0.109,0.157,-18.933,0.0433,72.702,2,4,calm
+Colours Colliding,Colours Colliding,William Orbit,1wg3lYVQaggfn4qGnIVBec,2022-06-07,13,299346,0.168,0.518,0.196,0.83,0.105,0.0758,-15.752,0.0322,99.505,7,3,calm
+Break My Heart - Piano Acoustic,Break My Heart (Piano Acoustic),JC Stewart,7e5HVLu9xSydLebKSqBebM,2021-02-12,47,218293,0.448,0.943,0.247,3.61e-05,0.109,0.276,-10.454,0.0466,134.5,6,4,calm
+Exhale - Edit,Exhale,Jónsi,1kuZYUny8zNJ2whFQIMWEb,2020-04-23,11,242800,0.27,0.495,0.358,0.198,0.151,0.113,-11.168,0.0308,95.936,5,4,calm
+Say You'll Be There - Acoustic,Say You'll Be There (Acoustic),Shaefri,4THGYAdqSKMmyugQDjz659,2020-10-07,0,202779,0.442,0.93,0.394,0.00189,0.106,0.283,-8.138,0.0322,124.634,5,3,calm
+Feels Like This,Dressed Too Nice For A Jacket,Maisie Peters,53Wsf11ElpPr1WAGtRQlcx,2018-11-02,48,223346,0.384,0.958,0.165,0.0,0.101,0.333,-9.601,0.0446,68.469,2,4,calm
+Berlin,Dawn,RY X,7BSMSvK0WxrDeI98bswYa8,2016-05-06,56,174172,0.393,0.963,0.0668,0.105,0.107,0.0384,-20.755,0.0404,136.938,7,4,calm
+13th of January,Sleep Talk,Patricia Lalor,1qolVx4UYCFfccC10wFG0x,2020-04-10,9,180800,0.574,0.905,0.247,0.0323,0.113,0.212,-15.25,0.0282,115.102,2,4,calm
+Green,Green (An Original Song from the Motion Picture “Sound of Metal”),Abraham Marder,5Qbbt2pFCtK1TURRKyc44t,2021-02-12,26,267251,0.35,0.944,0.0229,0.000761,0.111,0.0803,-19.263,0.0427,131.177,1,4,calm
+Counting Flowers,Counting Flowers,EVER,7f6tmZhAL2D9CTLfSyWDHC,2020-09-18,8,188759,0.321,0.609,0.41,5.8e-05,0.305,0.285,-5.959,0.0404,82.216,3,4,calm
+Where's My Love,The Bird,SYML,2dssj4b2CNkmrMfZRbEXIM,2019-02-14,0,202106,0.598,0.853,0.343,0.0219,0.123,0.419,-11.04,0.025,103.984,0,4,calm
+Distant Land,Distant Land,Garrett Kato,4LkT6t2o3URthSNIoUQ7xc,2019-06-14,0,201000,0.54,0.638,0.456,0.0345,0.102,0.409,-11.905,0.0303,82.05,1,4,calm
+Shimmer,Shimmer,JFDR,5GCBU0qNaeKvZBhoGDgxXR,2020-01-29,0,201384,0.532,0.765,0.214,0.0782,0.0914,0.402,-15.628,0.0324,136.137,2,4,calm
+Head And Heart On Fire,Head And Heart On Fire,LÉON,4rqe64hyIfoMfiBcvVZqfT,2020-09-18,0,155303,0.569,0.699,0.311,0.0,0.0938,0.244,-8.267,0.0276,125.913,10,4,calm
+Loneliness,Loneliness,Birdy,3fZpuY6pfjBeMsrnKMtbXQ,2021-02-12,44,202400,0.595,0.536,0.56,0.0,0.156,0.483,-7.988,0.0327,131.833,1,4,calm
+Nazareth,Nazareth,The Staves,03JgKNVxicoLINfg3q8qBv,2020-08-07,26,250162,0.494,0.982,0.106,4.93e-05,0.0777,0.211,-16.851,0.0316,105.877,3,4,calm
+Promise,Every Kingdom,Ben Howard,4qyfir5Yr7nfo05g6cyFMT,2011-01-01,59,384080,0.367,0.889,0.189,0.428,0.364,0.177,-15.736,0.0384,156.643,2,4,calm
+Mystery of Love,Call Me By Your Name (Original Motion Picture Soundtrack),Various Artists,4HbeGjbt7u3pvwDk1vN7P0,2017-11-03,64,248964,0.365,0.94,0.273,0.431,0.109,0.238,-16.526,0.038,132.285,4,5,calm
+cul de sac,cul de sac,trayer tryon,17EwIxh2j0710mB2lGO10p,2020-09-01,0,354843,0.149,0.946,0.411,0.922,0.3,0.192,-14.344,0.0371,104.926,0,4,calm
+loyal,Loyal,Jasmine Thompson,3xYCHCokOiH0OjtkCZaEAq,2019-02-15,20,226570,0.452,0.41,0.401,9.84e-06,0.127,0.106,-6.67,0.0594,67.482,8,3,calm
+Waiting,EP II (+ Skisser EP),Alice Boman,0WnR9teHmp1tkQF33DztIS,2014-05-26,0,184320,0.317,0.975,0.328,0.123,0.116,0.088,-10.084,0.0303,85.264,8,4,calm
+Loved You Once,Loved You Once,Clara Mae,3LbwR2WcofkDBp4LSgGJh1,2019-06-21,50,148603,0.444,0.655,0.436,0.0,0.157,0.307,-5.988,0.042,77.724,4,3,calm
+Television [Single Version],Television,Delmer Darion,2dY98tCejSSvgvO3PiaLwG,2020-09-02,4,238058,0.603,0.906,0.365,0.618,0.14,0.578,-15.875,0.0365,139.952,6,4,calm
+Whirlwind,Whirlwind,Sam Ryder,4FdlrVG63Nsx9I7dBtsh6J,2021-02-23,46,208088,0.427,0.739,0.6,4.53e-06,0.172,0.254,-5.512,0.0385,80.603,3,4,calm
+Our Remains,Our Remains,Beta Radio,6pBxnT5MpmA4apvkJkKVii,2018-04-06,0,244120,0.329,0.867,0.319,0.0399,0.114,0.29,-12.078,0.0335,198.116,1,4,calm
+The Blower's Daughter,O,Damien Rice,4B2lJinAkeNLSJjcq3dg8Q,2003-06-03,50,286653,0.342,0.134,0.2,0.000153,0.341,0.0743,-13.569,0.0324,133.113,4,4,calm
+Charlie Darwin,Oh My God Charlie Darwin (Standard),The Low Anthem,3MdPDYxD89AcSCaEpkptYq,2009-06-09,21,271800,0.273,0.701,0.138,0.0,0.0942,0.106,-11.734,0.0313,83.381,0,4,calm
+Arms,On the Train Ride Home,The Paper Kites,48HT7Zzd3We4ZjG82lsbdK,2018-04-18,11,203560,0.41,0.931,0.141,0.0898,0.118,0.239,-18.564,0.0337,149.884,2,4,calm
+A Thousand Years,A Thousand Years,Christina Perri,6lanRgr6wXibZr8KgzXxBl,2011-10-18,77,285120,0.421,0.309,0.407,0.000961,0.11,0.161,-7.445,0.0267,139.028,10,3,calm
+Make It Holy,If I Was (Deluxe Edition),The Staves,6aIDKjD8xOEEd6xcNnINw2,2014-10-20,35,273546,0.564,0.869,0.255,3.99e-05,0.135,0.215,-12.982,0.0318,133.075,5,4,calm
+Write It Down - Acoustic,Write It Down (Acoustic),Hamzaa,3t28k4yNuDN5N2wj1KqVv2,2019-11-29,32,237709,0.384,0.834,0.297,0.0,0.0876,0.471,-6.773,0.0428,82.284,10,4,calm
+We Never Change,Parachutes,Coldplay,5TB6QgrF0RPIxSCGfRDLoe,2000-07-10,59,249400,0.433,0.535,0.288,0.000169,0.105,0.131,-10.801,0.0296,136.939,6,3,calm
+Please Be Patient with Me,Sky Blue Sky,Wilco,6KjhpY9ylfLNEJx6RB7xJC,2007-05-11,28,197133,0.462,0.928,0.147,0.165,0.115,0.151,-13.357,0.0323,91.694,3,3,calm
+How It Gets In (feat. Julien Baker),Recorded Songs,Frightened Rabbit,42ogcCoEQpdE84Hyvg36s8,2017-09-15,33,161200,0.35,0.547,0.576,0.000121,0.0983,0.117,-7.196,0.0423,98.867,9,4,calm
+Skinny Love,Skinny Love,Birdy,0xJtHBdhpdLuClaSQYddI4,2011-01-30,9,200939,0.387,0.96,0.298,0.00397,0.117,0.18,-8.797,0.049,87.571,4,4,calm
+Sense of Home,Sense of Home,Harrison Storm,68wibJU4yMiqNX79IaLAsN,2015-03-31,11,265840,0.564,0.892,0.207,1.8e-06,0.102,0.0898,-10.926,0.032,139.933,3,4,calm
+IOU,Shelter,Olivia Chaney,566x9tfHqcnSM2LgxdIjR8,2018-06-15,29,243026,0.509,0.88,0.289,0.0036,0.111,0.156,-8.3,0.0286,158.799,4,3,calm
+Glowing Brightly,If Blue Could Be Happiness,Florist,4naz1EdNwZhREzp7CKFn23,2017-09-29,0,209153,0.64,0.776,0.257,0.0368,0.101,0.187,-13.069,0.0345,79.957,0,4,calm
+Come Home To Me,LÉON,LÉON,2K8elWg8ihrZRwZJ7Gy6L3,2019-03-01,58,225868,0.66,0.953,0.193,0.0,0.0953,0.296,-8.904,0.0725,82.035,11,4,calm
