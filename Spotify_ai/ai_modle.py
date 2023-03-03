@@ -22,9 +22,9 @@ from sklearn.metrics import confusion_matrix, accuracy_score
 df1 = pd.read_csv('Spotify_ai/data/df1.csv')
 df2 = pd.read_csv('Spotify_ai/data/df2.csv')
 df3 = pd.read_csv('Spotify_ai/data/df3.csv')
-df4 = pd.read_csv('Spotify_ai/data/df4.csv')
+# df4 = pd.read_csv('Spotify_ai/data/df4.csv')
 
-df = pd.concat([df1,df2,df3,df4],axis = 0)
+df = pd.concat([df1,df2,df3, df4],axis = 0)
 col_features = df.columns[6:-3]
 X= MinMaxScaler().fit_transform(df[col_features])
 X2 = np.array(df[col_features])
@@ -35,8 +35,10 @@ encoder = LabelEncoder()
 encoder.fit(Y)
 encoded_y = encoder.transform(Y)
 
+X_train,X_test,Y_train,Y_test = train_test_split(X,encoded_y, test_size=0.2, random_state=15)
+
 target = pd.DataFrame({'Mood':df['Mood'].tolist(),'encode':encoded_y}).drop_duplicates().sort_values(['encode'],ascending=True)
-target
+print(target)
 
 def base_model():
     #Create the model
@@ -50,67 +52,25 @@ def base_model():
                  metrics=['accuracy'])
     return model
 
-estimator = KerasClassifier(build_fn=base_model,epochs=150,batch_size=45,verbose=0)
+estimator = KerasClassifier(build_fn=base_model,epochs=300,batch_size=200,verbose=0)
 
 #Evaluate the model using KFold cross validation
 kfold = KFold(n_splits=10,shuffle=True)
 results = cross_val_score(estimator,X,encoded_y,cv=kfold)
 print("Baseline: %.2f%% (%.2f%%)" % (results.mean()*100,results.std()*100))
 
+estimator.fit(X_train,Y_train)
+y_preds = estimator.predict(X_test)
+cm = confusion_matrix(Y_test,y_preds)
+ax = plt.subplot()
+sns.heatmap(cm,annot=True,ax=ax)
 
+labels = target['Mood']
+ax.set_xlabel('Predicted labels')
+ax.set_ylabel('True labels')
+ax.set_title('Confusion Matrix')
+ax.xaxis.set_ticklabels(labels)
+ax.yaxis.set_ticklabels(labels)
+plt.show()
 
-
-def predict_mood(id_song):
-    #Join the model and the scaler in a Pipeline
-    pip = Pipeline([('minmaxscaler',MinMaxScaler()),('keras',KerasClassifier(build_fn=base_model,epochs=150,
-                                                                             batch_size=45,verbose=0))])
-    #Fit the Pipeline
-    pip.fit(X2,encoded_y)
-
-    #Obtain the features of the song
-    preds = get_songs_features(id_song)
-    #Pre-process the features to input the Model
-    preds_features = np.array(preds[0][6:-2]).reshape(-1,1).T
-
-    #Predict the features of the song
-    results = pip.predict(preds_features)
-
-    mood = np.array(target['mood'][target['encode']==int(results)])
-    name_song = preds[0][0]
-    artist = preds[0][2]
-
-    # return print("{0} by {1} is a {2} song".format(name_song,artist,mood[0].upper()))
-    print(f"{name_song} by {artist} is a {mood[0].upper()} song")
-
-def get_songs_features(ids):
-    
-    meta = sp.track(ids)
-    features = sp.audio_features(ids)
-
-    # meta
-    name = meta['name']
-    album = meta['album']['name']
-    artist = meta['album']['artists'][0]['name']
-    release_date = meta['album']['release_date']
-    length = meta['duration_ms']
-    popularity = meta['popularity']
-    ids =  meta['id']
-
-    # features
-    acousticness = features[0]['acousticness']
-    danceability = features[0]['danceability']
-    energy = features[0]['energy']
-    instrumentalness = features[0]['instrumentalness']
-    liveness = features[0]['liveness']
-    valence = features[0]['valence']
-    loudness = features[0]['loudness']
-    speechiness = features[0]['speechiness']
-    tempo = features[0]['tempo']
-    key = features[0]['key']
-    time_signature = features[0]['time_signature']
-
-    track = [name, album, artist, ids, release_date, popularity, length, danceability, acousticness,
-            energy, instrumentalness, liveness, valence, loudness, speechiness, tempo, key, time_signature]
-    columns = ['name','album','artist','id','release_date','popularity','length','danceability','acousticness','energy','instrumentalness',
-                'liveness','valence','loudness','speechiness','tempo','key','time_signature']
-    return track,columns
+print("Accuracy Score",accuracy_score(Y_test,y_preds))

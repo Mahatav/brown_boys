@@ -57,79 +57,79 @@ def download_playlist(id_playlist,n_songs):
     tracks = []
 
     for i in range(0,n_songs,100):
-        playlist = spt.playlist_tracks(id_playlist,limit=45,offset=i)
-        
+        playlist = spt.playlist_tracks(id_playlist,limit=100,offset=i)        
         for songs in playlist['items']:
             songs_id.append(songs['track']['id'])
     
     counter = 1
+    
+    for ids in songs_id:
+        if ids == None:
+            songs_id.pop(songs_id.index(ids))
+       
     for ids in songs_id:
         
-        time.sleep(.6)
-        track,columns = get_songs_features(ids)
-        tracks.append(track)
-
-        print(f"Song {counter} Added:")
-        print(f"{track[0]} By {track[2]} from the album {track[1]}")
-        clear_output(wait = True)
-        counter+=1
-    
+        if ids != None:
+            track,columns = get_songs_features(ids)
+            tracks.append(track)
+            print(f"Song {counter} Added:")
+            print(f"{track[0]} By {track[2]} from the album {track[1]}")
+            clear_output(wait = True)
+            counter+=1
+            
+        
     clear_output(wait = True)
     print("Music Downloaded!")
 
     return tracks, columns
 
 #energy
-tracks, columns = download_playlist('37i9dQZF1DX0vHZ8elq0UK',45)
+tracks, columns = download_playlist('1BV6g3eusEscbN3qaTA681',200)
 df1 = pd.DataFrame(tracks,columns=columns)
+print(df1)
 mood_1 = []
-for i in range(0,45):
+for i in range(0,199):
     mood_1.append('energetic')
     i = i+1
-    
 df1['Mood'] = mood_1
 df1.head()
 df1.to_csv('Spotify_ai/data/df1.csv',index=False)
-df1.describe(include='all')
 
 #sad
-tracks, columns = download_playlist('4dsMcfg4je97bBXtC1lTDG',45)
+tracks, columns = download_playlist('0DiIiLcScBTTTRgtRkwGxe',156)
 df2 = pd.DataFrame(tracks,columns=columns)
 mood_2 = []
-for i in range(0,45):
+for i in range(0,156):
     mood_2.append('sad')
     i = i+1
     
 df2['Mood'] = mood_2
 df2.head()
 df2.to_csv('Spotify_ai/data/df2.csv',index=False)
-df2.describe(include='all')
 
 #happy
-tracks, columns = download_playlist('3Moh3eljVTH87y3tsoyzpf',45)
+tracks, columns = download_playlist('4AnAUkQNrLKlJCInZGSXRO',200)
 df3 = pd.DataFrame(tracks,columns=columns)
 mood_3 = []
-for i in range(0,45):
+for i in range(0,200):
     mood_3.append('happy')
     i = i+1
     
 df3['Mood'] = mood_3
 df3.head()
 df3.to_csv('Spotify_ai/data/df3.csv',index=False)
-df3.describe(include='all')
 
 #calm
-tracks, columns = download_playlist('6EIVswdPfoE9Wac7tB6FNg',45)
+tracks, columns = download_playlist('6TtkO4MdVL36vgNpmF1OyA',200)
 df4 = pd.DataFrame(tracks,columns=columns)
 mood_4 = []
-for i in range(0,45):
+for i in range(0,200):
     mood_4.append('calm')
     i = i+1
     
 df4['Mood'] = mood_4
 df4.head()
 df4.to_csv('Spotify_ai/data/df4.csv',index=False)
-df4.describe(include='all')
 
 print(df1)
 print(df2)

@@ -6,9 +6,12 @@ You want to run the following commonds on you commaon line to run the web server
 - myproject\Scripts\activate
 - pip install Flask twilio
 
-
-Other peoples shit we are using
-
-- Flask
-- Spotipy
-- 
+You wanna run the follwing for sportify
+- pip install spotipy
+- pip install Flask IPython
+- pip install matplotlib
+- pip install pandas
+- pip install seaborn
+- pip install keras
+- pip install tensorflow
+- pip install -U scikit-learn
