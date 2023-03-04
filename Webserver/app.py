@@ -25,7 +25,8 @@ def login():
         password = request.form["password"]
         if processData.processLogin(username, password):
             app.logger.info("logging on")
-            return render_template("index.html")
+            result = request.form
+            return render_template("index.html", result=result)
         else:
             return render_template("login.html")
     else:
