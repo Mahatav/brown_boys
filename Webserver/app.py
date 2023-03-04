@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def main():
-    return render_template("index.html")
+    return render_template("base.html")
 
 @app.route("/signUp", methods=["POST", "GET"])
 def signUp():
@@ -23,8 +23,9 @@ def login():
     if request.method == "POST":
         username = request.form["username"]
         password = request.form["password"]
-    
-    return "hello"
+        return render_template("index.html")
+    else:
+        return render_template("login.html")
 
 
 if __name__ == "__main__":
