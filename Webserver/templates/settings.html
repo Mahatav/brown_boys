@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>App Settings</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+      body {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+        padding: 0;
+      }
+      
+      nav {
+        width: 100%;
+        background-color: #007aff;
+        color: white;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px 20px;
+      }
+      
+      form {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 90vw;
+        max-width: 400px;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+      }
+      
+      h1, h2 {
+        text-align: center;
+        margin: 10px 0;
+      }
+      
+      label {
+        display: flex;
+        align-items: center;
+        margin: 10px 0;
+      }
+      
+      input[type="radio"], input[type="checkbox"] {
+        margin-right: 10px;
+      }
+      
+      select {
+        margin-left: 10px;
+      }
+      
+      button[type="submit"], button[type="button"] {
+        margin-top: 20px;
+        padding: 10px;
+        border-radius: 5px;
+        border: none;
+        background-color: #007aff;
+        color: white;
+        font-size: 16px;
+        cursor: pointer;
+      }
+      
+      button[type="submit"]:hover, button[type="button"]:hover {
+        background-color: #0062cc;
+      }
+      
+      .chat-button {
+        margin-top: 20px;
+        padding: 10px;
+        border-radius: 5px;
+        border: none;
+        background-color: #4CAF50;
+        color: white;
+        font-size: 16px;
+        cursor: pointer;
+      }
+      
+      .chat-button:hover {
+        background-color: #3e8e41;
+      }
+    </style>
+  </head>
+  <body>
+    <nav>
+      <button onclick="window.location.href='index.html'">Back</button>
+      <h1>App Settings</h1>
+      <button>Save</button>
+    </nav>
+    <form>
+      <h2>Appearance</h2>
+      <label>
+        <input type="radio" name="appearance" value="light" checked> Light mode
+      </label>
+      <label>
+        <input type="radio" name="appearance" value="dark"> Dark mode
+      </label>
+      
+      <h2>Language and Location</h2>
+      <label>
+        <select name="language">
+          <option value="en">English</option>
+          <option value="fr">Français</option>
+          <option value="es">Español</option>
+        </select>
+        Language
+      </label>
+      <label>
+        <select name="location">
+          <option value="us">United States</option>
+          <option value="ca">Canada</option>
+          <option value="mx">Mexico</option>
+        </select>
+        Country
+      </label>
+      <h2>Accessibility</h2>
+      <label>
+        <input type="checkbox" name="accessibility" value="large-font"> Large font
+      </label>
+      <label>
+        <input type="checkbox" name="accessibility" value="color-blind-mode"> Color-blind mode
+        <input type="checkbox" name="accessibility" value="Chat with us"> Chat with us
+    </label>
+      
+      <h2>Account Settings</h2>
+      <button type="button">Delete
+    </form>
+  </body>
+</html>

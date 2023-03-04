@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def main():
-    return render_template("index.html")
+    return render_template("login.html")
 
 @app.route("/signUp", methods=["POST", "GET"])
 def signUp():
@@ -14,9 +14,13 @@ def signUp():
         for key, val in request.form.items():
             user_data[key] =  val
         processData.writeDataToFile(user_data)
-        return render_template("index.html")
+        return render_template("login.html")
     else:
         return render_template("signUp.html")
+    
+@app.route("/login", methods=["POST", "GET"])
+def login():
+    return "hello"
 
 if __name__ == "__main__":
     app.run()
