@@ -1,0 +1,157 @@
+name,album,artist,id,release_date,popularity,length,danceability,acousticness,energy,instrumentalness,liveness,valence,loudness,speechiness,tempo,key,time_signature,Mood
+Romantic Homicide,Romantic Homicide,d4vd,1xK59OXxi2TAAAbmZK0kBL,2022-07-20,89,132630,0.571,0.453,0.544,0.00805,0.322,0.216,-10.613,0.0299,132.052,6,4,sad
+Another Love,Long Way Down (Deluxe),Tom Odell,3JvKfv6T31zO0ini8iNItO,2013-06-24,89,244360,0.445,0.695,0.537,1.65e-05,0.0944,0.131,-8.532,0.04,122.769,4,4,sad
+Get You The Moon (feat. Snøw),Get You The Moon (feat. Snøw),Kina,4ZLzoOkj0MPWrTLvooIuaa,2018-10-08,76,179080,0.498,0.72,0.235,0.0,0.144,0.0895,-16.541,0.188,118.917,1,4,sad
+Glimpse of Us,Glimpse of Us,Joji,6xGruZOHLs39ZbVccQTuPZ,2022-06-10,84,233456,0.44,0.891,0.317,4.78e-06,0.141,0.268,-9.258,0.0531,169.914,8,3,sad
+Kill Bill,SOS,SZA,3OHfY25tqY28d16oZczHc8,2022-12-09,92,153946,0.644,0.0543,0.728,0.169,0.161,0.43,-5.75,0.0351,88.993,8,4,sad
+Evergreen (You Didn’t Deserve Me At All),Ivory,Omar Apollo,2TktkzfozZifbQhXjT6I33,2022-04-08,80,216680,0.697,0.598,0.336,0.00528,0.107,0.31,-10.395,0.0424,82.029,9,3,sad
+die first - stripped,die first (stripped),Nessa Barrett,2SYEH8KdT65kB7u7nJDEhY,2022-07-22,49,174782,0.694,0.736,0.255,0.0,0.118,0.269,-9.375,0.0487,91.736,11,4,sad
+How Do I Say Goodbye,How Do I Say Goodbye,Dean Lewis,5hnGrTBaEsdukpDF6aZg8a,2022-08-31,81,163603,0.4,0.214,0.641,0.0,0.0656,0.393,-6.303,0.0674,81.552,8,4,sad
+Scott Street,Stranger in the Alps,Phoebe Bridgers,6Uwi2Qk3H7fM4b4W4ExrAp,2017-09-22,68,305000,0.508,0.77,0.417,0.0928,0.0887,0.483,-9.632,0.0296,134.944,10,4,sad
+Here With Me,Here With Me,d4vd,78Sw5GDo6AlGwTwanjXbGh,2022-09-22,91,242484,0.574,0.534,0.469,9.21e-05,0.128,0.288,-8.209,0.0254,132.023,4,4,sad
+I'm Not The Only One,In The Lonely Hour,Sam Smith,7795WJLVKJoAyVoOtCWqXN,2014-05-26,83,239316,0.677,0.529,0.485,2.04e-05,0.0766,0.493,-5.795,0.0361,82.001,5,4,sad
+rises the moon,recently,Liana Flores,51Grh1RyUDcMBbpuyUIUHI,2019-04-10,80,161929,0.483,0.947,0.129,0.145,0.106,0.203,-20.149,0.0349,137.35,5,3,sad
+Creepin' (with The Weeknd & 21 Savage),HEROES & VILLAINS,Metro Boomin,2dHHgzDwk4BJdRwy9uXhTO,2022-12-02,94,221520,0.715,0.417,0.62,0.0,0.0822,0.172,-6.005,0.0484,97.95,1,4,sad
+TV,Guitar Songs,Billie Eilish,3GYlZ7tbxLOxe6ewMNVTkw,2022-07-21,83,281380,0.412,0.83,0.236,0.00653,0.147,0.119,-15.159,0.0379,140.214,4,4,sad
+Gilded Lily - Slowed + Reverb,Offering,Cults,7d4CBdzpBJTM9SDUseL5rb,2022-10-26,33,258536,0.258,0.681,0.498,0.126,0.451,0.0531,-7.952,0.0377,152.598,8,3,sad
+SNAP,SNAP,Rosa Linn,0QPRDC97rIQB3Jh3hrVJoH,2022-03-19,24,179551,0.563,0.107,0.639,1.06e-05,0.446,0.518,-8.205,0.0684,169.985,0,4,sad
+changes,changes,Diphda,0jLQ1SiuIfS1RQZgG70bel,2023-01-27,46,127384,0.549,0.944,0.15,0.0,0.0889,0.468,-14.758,0.041,129.328,11,4,sad
+People,People,Libianca,26b3oVLrRUaaybJulow9kz,2022-12-06,86,184791,0.573,0.551,0.422,1.31e-05,0.102,0.693,-7.621,0.0678,124.357,10,5,sad
+Static,Gemini Rights,Steve Lacy,4OmfWzukSVD140NiAIEjem,2022-07-15,78,156506,0.335,0.434,0.305,0.631,0.101,0.215,-12.661,0.0741,79.001,1,5,sad
+complex (demo),complex (demo),Katie Gregson-MacLeod,1ovZe7upcqycTuPFfOg6kB,2022-08-26,63,256107,0.384,0.924,0.167,0.0,0.118,0.258,-9.92,0.0375,95.102,0,4,sad
+TO THE MOON,TO THE MOON,Jnr Choi,5vUnjhBzRJJIAOJPde6zDx,2021-11-06,71,152137,0.745,0.0451,0.65,0.00758,0.111,0.386,-11.814,0.346,144.047,2,4,sad
+Someone You Loved,"falling out of love, songs",Various Artists,47hJYBDckFqxQlpmqSj8Wk,2023-02-03,35,181090,0.623,0.527,0.271,0.000246,0.0909,0.0676,-11.946,0.0309,109.973,0,4,sad
+Revenge,17,XXXTENTACION,5TXDeTFVRVY7Cvt0Dw4vWW,2017-08-25,84,120026,0.746,0.782,0.251,0.00203,0.106,0.18,-16.169,0.259,139.999,11,4,sad
+Car's Outside,YOU,James Arthur,0otRX6Z89qKkHkQ9OqJpKt,2019-10-18,79,248373,0.338,0.039,0.562,0.0,0.107,0.259,-7.181,0.029,149.907,9,4,sad
+Habits,Habits,Genevieve Stokes,4UGvqm3e7UElrrriPtnhwz,2022-08-12,70,136733,0.663,0.854,0.287,6.85e-06,0.346,0.438,-9.469,0.0344,82.457,9,4,sad
+the way that we started (taylor),the way that we started (taylor),elijah woods,36AWmLYL4tMTfZseHQHoVl,2022-12-13,57,204878,0.627,0.362,0.518,1.34e-05,0.109,0.512,-7.064,0.0567,82.006,1,4,sad
+ceilings,five seconds flat,Lizzy McAlpine,2L9N0zZnd37dwF0clgxMGI,2022-04-08,84,182887,0.516,0.473,0.322,0.00194,0.215,0.261,-11.762,0.0292,148.005,9,3,sad
+Kid Again,Kid Again,Camo Columbo,6Qqh9VEIeHjGoTHsSA8VZZ,2023-01-13,44,184695,0.802,0.713,0.605,0.01,0.171,0.402,-8.643,0.0416,114.945,6,4,sad
+Boyfriend,Boyfriend,Dove Cameron,59CfNbkERJ3NoTXDvoURjj,2022-02-11,80,153000,0.345,0.232,0.612,0.0,0.194,0.232,-6.543,0.0608,179.773,7,3,sad
+Those Eyes,Those Eyes,New West,2GThBgzZoZfz0lx1JjBwfe,2019-05-10,71,220750,0.597,0.727,0.351,3.86e-05,0.319,0.243,-8.043,0.0281,119.948,4,3,sad
+Remember - Acoustic,Remember (Acoustic),Becky Hill,5aXfGM7WVcqyAvqnL7k0y3,2021-07-09,67,178626,0.62,0.797,0.379,0.0,0.195,0.509,-8.675,0.0412,118.899,3,4,sad
+The Girl,The Girl,INTRN,7Dw770W1ZtqQkYDZO5jcnY,2023-01-20,38,138750,0.425,0.947,0.0617,3e-06,0.11,0.299,-15.142,0.0345,135.387,7,5,sad
+In This Darkness,In This Darkness,Clara La San,6qrcJkIpuWpxH0ruS8WVAy,2023-01-29,68,197000,0.647,0.841,0.228,0.00149,0.108,0.189,-19.288,0.0668,119.828,2,4,sad
+Atlantis,Tell Me It's Real (Expanded Edition),Seafret,1Fid2jjqsHViMX6xNH70hE,2016-01-29,83,229173,0.4,0.0529,0.479,2.14e-06,0.115,0.213,-7.989,0.0308,166.159,8,4,sad
+Rivers and Roads,The Head and the Heart,The Head And The Heart,4fN0dQGDaV4Hg7Gd7mBOE0,2011-04-18,54,284000,0.5,0.717,0.197,3.22e-05,0.0755,0.177,-8.93,0.0354,131.243,0,3,sad
+Cayendo (Side A - Acoustic),Cayendo (Side A - Acoustic),Frank Ocean,72794Eag03xdy7TO0KNuid,2020-04-03,63,202200,0.35,0.982,0.12,0.000289,0.103,0.121,-11.104,0.0393,68.995,3,4,sad
+RED EYES N BLUE SKIES,RED EYES N BLUE SKIES,3ANGEL,58d2fDizWMpMVnim2IDZME,2023-01-27,36,153380,0.688,0.527,0.307,0.000713,0.719,0.0388,-18.278,0.0939,141.987,9,4,sad
+Fingers Crossed,Fingers Crossed,Lauren Spencer Smith,5S9Zs5g9lTWnLIboN1pdlU,2022-01-05,1,175344,0.603,0.616,0.473,0.0,0.31,0.446,-7.23,0.0511,109.494,5,4,sad
+In The Stars,In The Stars,Benson Boone,1ei3hzQmrgealgRKFxIcWn,2022-04-29,79,216410,0.362,0.338,0.54,0.0,0.139,0.3,-6.031,0.0528,78.007,10,3,sad
+No Surprises,OK Computer,Radiohead,10nyNJ6zNy2YVYLrcwLccB,1997-05-28,78,229120,0.255,0.0577,0.393,0.00361,0.113,0.118,-10.654,0.0278,76.426,5,4,sad
+Over Me - Slowed + Reverb Version,Over Me,Meric,6n2lTcZHfy3tRUFxSFYzy1,2022-10-21,36,249230,0.633,0.421,0.6,0.133,0.102,0.0483,-9.529,0.0433,115.55,1,4,sad
+Satellite,Harry's House,Harry Styles,0rzaRSujxA0bKyjJl6vHYq,2022-05-20,79,218577,0.576,0.143,0.457,3.05e-05,0.0917,0.301,-6.473,0.0304,138.984,0,4,sad
+ur so pretty,how can i pretend?,Wasia Project,0MIiqne6YsbsDz4z9MGA2K,2022-05-10,47,132000,0.322,0.932,0.231,0.00076,0.149,0.228,-12.919,0.0347,91.186,4,3,sad
+Birthday Cake,Birthday Cake,Dylan Conrique,7dDrR6vMK1JAwZZ5MIWgme,2022-02-02,70,205280,0.436,0.955,0.255,3.28e-05,0.106,0.15,-8.623,0.0364,113.265,3,4,sad
+The Breakup Song,"falling out of love, songs",Various Artists,1npSSnKFAEoRcCU6uZVvPy,2023-02-03,29,165173,0.605,0.0508,0.835,0.166,0.212,0.688,-7.42,0.0602,140.906,9,4,sad
+what if i took it off for you?,what if i took it off for you?,Nemahsis,72HyixZAVyNR3Ljiuumgyo,2021-06-23,47,136706,0.385,0.914,0.238,1.59e-05,0.0969,0.206,-8.255,0.0309,150.729,5,4,sad
+WASTE,DISORDER,Kxllswxtch,4NgherJDfCXWBZBYheM4jK,2021-10-29,79,120428,0.627,0.859,0.123,0.00105,0.149,0.11,-14.411,0.0316,131.883,7,4,sad
+MEAN!,MEAN!,Madeline The Person,0KQRhak4Irr2CKxgQ9U6ay,2022-04-29,66,143960,0.502,0.912,0.416,0.0,0.0934,0.433,-9.504,0.433,175.191,7,3,sad
+Postcardtospain,Landing Songs,Liush,5LCxaJ6WHn2vCsIS9apc41,2023-02-10,30,207795,0.471,0.943,0.126,0.0776,0.112,0.215,-17.802,0.0381,121.681,8,3,sad
+Where Do You Go,drowning,Jessie Murph,3lXEoPxZMDiMNeE4ea5nct,2023-02-10,66,170808,0.37,0.654,0.299,0.000762,0.113,0.0726,-10.836,0.0457,173.467,0,3,sad
+Lovers Rock,French Exit,TV Girl,6dBUzqjtbnIa1TwYbyw5CM,2014-06-05,82,213920,0.559,7.53e-06,0.871,0.00545,0.096,0.572,-5.338,0.0397,104.97,5,4,sad
+Bored,Bored,Billie Eilish,04sN26COy28wTXYj3dMoiZ,2017-03-30,80,180933,0.614,0.896,0.318,0.00239,0.0795,0.112,-12.695,0.0478,119.959,7,4,sad
+Talk 2 Me,JAMIE,Montell Fish,6pPLhloHxLWiMlAT5Xn1gw,2022-07-22,69,139805,0.464,0.816,0.126,3.67e-06,0.559,0.181,-16.383,0.0647,103.176,11,4,sad
+Big Jet Plane,"falling in love, songs",Various Artists,30LvnsFly9MIrnVjqxZD9U,2023-02-03,32,134142,0.839,0.39,0.44,0.000151,0.134,0.209,-10.349,0.0827,140.032,0,4,sad
+happier,SOUR,Olivia Rodrigo,2tGvwE8GcFKwNdAXMnlbfl,2021-05-21,80,175933,0.395,0.765,0.443,9.67e-06,0.0839,0.338,-9.72,0.133,168.924,6,3,sad
+drunk text,drunk text,Henry Moodie,0KpWiHVmIFDTvai20likX4,2023-01-27,71,187263,0.382,0.286,0.401,0.0,0.0851,0.145,-8.955,0.0851,185.636,0,3,sad
+"I miss you, I’m sorry",minor,Gracie Abrams,4nyF5lmSziBAt7ESAUjpbx,2020-07-14,74,167538,0.445,0.731,0.455,1.47e-06,0.124,0.151,-6.405,0.0575,109.885,7,5,sad
+Now What,Now What,thom.ko,1kFrfg16usCeiNl0OewQVs,2022-06-10,40,163800,0.82,0.759,0.625,0.0,0.109,0.731,-4.391,0.0404,88.991,1,4,sad
+All For You,All For You,Cian Ducrot,29Co9NKhOM5R9vWCrpkPPK,2022-04-07,68,219380,0.551,0.805,0.268,0.0,0.0977,0.335,-9.954,0.0427,77.079,2,3,sad
+internet crush,internet crush,Jeremy Zucker,4GISsjjHTA2UyM9DY4DNgY,2023-02-10,63,202735,0.361,0.444,0.338,2.59e-05,0.362,0.108,-9.878,0.0816,152.434,11,4,sad
+was it easy getting over me?,was it easy getting over me?,Gloria Kim,0a9w6rQAPMfCtnCExpCE2a,2023-01-20,42,196850,0.391,0.314,0.343,0.0,0.103,0.0636,-7.984,0.0363,123.27,3,4,sad
+Become the Warm Jets,A Different Age,Current Joys,7Ko1ZXgGku1hjFH7LIfD33,2018-03-02,65,334901,0.44,0.772,0.227,0.00144,0.0951,0.0844,-15.486,0.0459,132.354,7,4,sad
+Possibility,The Twilight Saga: New Moon (Original Motion Picture Soundtrack),Various Artists,5VKKg5uIy24qBe6sUiJaFh,2009-10-09,29,306440,0.285,0.768,0.311,0.00183,0.0809,0.0772,-10.012,0.032,117.813,0,4,sad
+LIMBO,GABRIEL,keshi,2bdVgAQgosGUJoViVDNeOV,2022-03-25,76,212784,0.577,0.879,0.366,7.76e-05,0.137,0.0841,-11.792,0.0368,129.923,8,4,sad
+It's Ok - Slowed,It's Ok (Slowed),Edith Whiskers,5RKUztud1fb5UhO4gljjl7,2021-05-12,62,214371,0.58,0.978,0.183,0.0119,0.111,0.196,-13.6,0.0321,131.762,6,4,sad
+Twentynine Palms,Twentynine Palms,Austin Harms,5isDcWQsvpufU4FAVadU9I,2022-10-14,41,212026,0.445,0.526,0.333,0.00168,0.143,0.393,-11.308,0.0334,137.959,5,4,sad
+paper,paper,kenzie,0r3sjyiC4jE179QJHG9geQ,2023-01-13,59,167675,0.603,0.7,0.335,4.58e-05,0.0987,0.192,-9.694,0.0731,78.988,1,4,sad
+Apocalypse,Cigarettes After Sex,Cigarettes After Sex,0yc6Gst2xkRu0eMLeRMGCX,2017-06-09,80,290616,0.37,0.0205,0.467,0.572,0.109,0.182,-9.013,0.0273,94.485,5,4,sad
+Dancing With Your Ghost,Dancing With Your Ghost,Sasha Alex Sloan,1TQXIltqoZ5XXyfCbAeSQQ,2019-06-28,77,197732,0.629,0.768,0.328,2.5e-05,0.103,0.389,-8.284,0.029,74.953,11,4,sad
+what about your boyfriend? - Slowed + Reverb Version,what about your boyfriend? (Complete Edition),Meric,4Rg357vvzF6cwlTxZFj8FV,2022-09-23,32,201923,0.79,0.268,0.536,0.208,0.107,0.117,-8.488,0.0685,111.127,5,4,sad
+Lost,channel ORANGE (Explicit Version),Frank Ocean,4L7jMAP8UcIe309yQmkdcO,2012-07-10,1,234093,0.913,0.0272,0.603,0.000503,0.167,0.497,-4.892,0.226,123.061,8,4,sad
+Not My Responsibility,Happier Than Ever,Billie Eilish,4T2zre0jqstNJ5Gt0WG9lz,2021-07-30,65,227679,0.468,0.454,0.13,0.927,0.0819,0.0362,-18.031,0.0571,115.039,1,4,sad
+Just A Cloud Away,Just A Cloud Away,Pharrell Williams,0DGTcMqvVR7fmBXgiG6jz4,2013,64,176078,0.89,0.432,0.46,0.0,0.11,0.677,-8.155,0.0359,112.555,2,3,sad
+Moonlight Mercy,Landing Songs,Liush,61A6xQ3QR3ruesfTt6bg4U,2023-01-20,34,244992,0.546,0.934,0.0754,0.371,0.0875,0.312,-20.151,0.0304,94.663,6,4,sad
+august,folklore,Taylor Swift,3hUxzQpSfdDqwM3ZTFQY0K,2020-07-24,79,261922,0.532,0.538,0.623,7.28e-05,0.0925,0.403,-9.208,0.0331,89.937,5,4,sad
+WFM,WFM,RealestK,18ddJHQ7CUzNBiy55L0Xjj,2021-10-06,0,136000,0.437,0.72,0.184,0.00253,0.113,0.247,-17.667,0.0313,80.088,1,4,sad
+Awkward,Ctrl (Deluxe),SZA,2xZ0zfuDTv5LxLhEgD82PG,2022-06-09,76,178000,0.618,0.182,0.474,0.000122,0.108,0.397,-12.097,0.0789,119.999,5,4,sad
+I Just Died In Your Arms,"falling out of love, songs",Various Artists,2vHXbnEbxN41ALWNX7k7i7,2023-02-03,32,183050,0.61,0.112,0.846,3.7e-06,0.493,0.737,-7.607,0.0399,118.013,3,4,sad
+Stargirl Interlude,Starboy,The Weeknd,4EDijkJdHBZZ0GwJ12iTAj,2016-11-25,78,111640,0.638,0.351,0.474,0.191,0.105,0.441,-12.7,0.124,179.771,5,4,sad
+WYD Now?,WYD Now?,Sadie Jean,3ZBeHiRJUj1vdiU8zzGPgb,2021-12-10,69,144666,0.378,0.776,0.334,0.0,0.115,0.496,-10.993,0.304,181.296,1,4,sad
+Ginseng Strip 2002,Lavender,Yung Lean,79nEEoEPY2w8EXj9hjn5oc,2013-08-16,20,153999,0.601,0.0848,0.712,0.0,0.479,0.386,-9.433,0.0431,114.998,1,4,sad
+Make You Happy,Make You Happy,INTRN,1Rr6W1MhMFzOogazoXSkw1,2022-09-16,40,232320,0.388,0.695,0.339,4.15e-06,0.111,0.182,-13.86,0.0448,125.0,2,4,sad
+Over,Over,Lucky Daye,1DOgkaR5Gqa8JtPEIbQORC,2021-09-22,64,205275,0.677,0.48,0.541,0.0,0.125,0.379,-6.057,0.0571,103.369,6,4,sad
+go,go,Cat Burns,4VtRHZ4tBDHaWltVAytlLY,2020-07-31,71,215000,0.663,0.88,0.251,0.0,0.0932,0.528,-9.87,0.0435,90.272,6,4,sad
+Vas,Triplbt Theme,jagger finn,6S7o12almFeL57rbRvdY5l,2019-08-28,75,90323,0.514,0.918,0.424,0.849,0.126,0.416,-10.645,0.0282,71.114,0,4,sad
+Sunlight,Sunlight,thom.ko,4wOpQBSTtbh9S86nxp0EJ1,2022-12-02,37,182240,0.55,0.321,0.424,0.0192,0.123,0.374,-7.556,0.0357,67.471,9,4,sad
+watch,dont smile at me,Billie Eilish,7eB1V5LvAdxCc7brfGhRRo,2017-12-22,75,177523,0.441,0.333,0.599,0.00198,0.103,0.35,-8.985,0.225,165.212,0,4,sad
+Infinity,Feel Something,Jaymes Young,1SOClUWhOi8vHZYMz3GluK,2017-06-23,80,237720,0.671,0.148,0.673,5.29e-05,0.304,0.494,-6.941,0.0444,121.963,11,4,sad
+"Eyes Blue Like The Atlantic, Pt. 2 (feat. Powfu, Alec Benjamin & Rxseboy)","Eyes Blue Like The Atlantic, Pt. 2 (feat. Powfu, Alec Benjamin & Rxseboy)",Sista Prod,1eCTQhsNA31FcwyNcJcf86,2020-08-13,64,156187,0.702,0.686,0.616,0.0,0.145,0.507,-4.903,0.326,80.482,6,4,sad
+Burn Our Bridges Down,Burn Our Bridges Down,RIELL,1I4wRSEnqLRMTsqKR4bbxh,2022-10-21,46,213993,0.636,0.392,0.53,0.0,0.113,0.177,-5.629,0.0351,117.983,5,4,sad
+All For Us - from the HBO Original Series Euphoria,All For Us (from the HBO Original Series Euphoria),Labrinth,10hMM5nsZQf66ldBlgWBfG,2019-08-04,71,192986,0.348,0.0165,0.652,0.000264,0.33,0.172,-7.145,0.0931,70.956,3,4,sad
+Put Your Records On,Put Your Records On,Ritt Momney,6AGOKlMZWLCaEJGnaROtF9,2020-04-24,72,210463,0.399,0.0563,0.491,0.00089,0.11,0.151,-10.778,0.0538,91.066,6,4,sad
+Norman fucking Rockwell,Norman Fucking Rockwell!,Lana Del Rey,3RIgHHpnFKj5Rni1shokDj,2019-08-30,73,248934,0.215,0.968,0.203,0.0585,0.0923,0.143,-12.65,0.0346,78.287,5,1,sad
+Bad Friend,Bad Friend,INTRN,4iA8OM01edxYtdkrQ4vZM2,2022-05-27,39,182068,0.659,0.898,0.213,0.0,0.169,0.67,-12.995,0.0431,72.457,0,4,sad
+abcdefu (chill),abcdefu (chill),GAYLE,6tH1lxPcQConWuvlh85yFT,2021-09-17,43,176765,0.554,0.0405,0.429,0.0,0.23,0.195,-7.687,0.0334,112.899,1,4,sad
+Dark Red,Dark Red,Steve Lacy,37y7iDayfwm3WXn5BiAoRk,2017-02-20,35,173104,0.603,0.449,0.783,7.96e-06,0.119,0.775,-4.023,0.062,172.041,6,4,sad
+Sativa,Trip,Jhené Aiko,2pg2TiYo9Rb8KeB5JjP7jS,2017-09-22,73,276960,0.741,0.316,0.61,0.0,0.534,0.72,-7.34,0.0511,125.99,6,4,sad
+Sea of Love,"falling in love, songs",Various Artists,4N525F62am9WXdYf7h8ZXm,2023-02-03,29,123013,0.672,0.362,0.249,0.00291,0.0814,0.218,-12.033,0.0259,80.894,9,4,sad
+Quietly Yours,Persuasion (Soundtrack from the Netflix Film),Birdy,52xFKeXEHm2fI8jpia0oUS,2022-07-15,26,234156,0.442,0.838,0.355,0.003,0.114,0.293,-14.27,0.0574,154.223,1,4,sad
+Hotel,Hotel,Montell Fish,0JzG1wJuB4v9UPkSE7LMXi,2022-09-16,72,197333,0.228,0.752,0.427,0.0167,0.592,0.192,-8.739,0.0363,180.345,0,4,sad
+we fell in love in october,we fell in love in october / forget her,girl in red,1BYZxKSf0aTxp8ZFoeyM3d,2018-11-21,34,184153,0.566,0.113,0.366,0.181,0.155,0.237,-12.808,0.028,129.959,7,4,sad
+Whiplash,Whiplash,LEFT.,3thbPeqVwBS3ma8U4Ngs5P,2022-07-15,42,150471,0.506,0.0816,0.646,0.0,0.0998,0.732,-8.58,0.359,97.162,4,4,sad
+July (feat. Leon Bridges),July (feat. Leon Bridges),Noah Cyrus,3V0nnQhqvbE3JmiDdnzQFQ,2019-11-08,70,152280,0.708,0.853,0.211,0.0,0.131,0.362,-9.603,0.0424,72.5,9,4,sad
+GHOST TOWN,GHOST TOWN,Benson Boone,135Lf4Q0CzlMNfOxbEUsLH,2021-10-15,74,193733,0.391,0.389,0.335,0.0,0.102,0.116,-10.064,0.0763,174.185,0,3,sad
+death bed (coffee for your head),death bed (coffee for your head),Powfu,7eJMfftS33KTjuF7lTsMCx,2020-02-08,79,173333,0.726,0.731,0.431,0.0,0.696,0.348,-8.765,0.135,144.026,8,4,sad
+Love Feels Like a Prison to Me - Slowed + Reverb Version,Love Feels Like a Prison to Me,Meric,4hxbWRGDgvcFxvBdeyBKME,2022-12-23,29,209307,0.594,0.0247,0.664,0.000342,0.452,0.0768,-6.597,0.0553,131.044,1,4,sad
+drivers license,drivers license,Olivia Rodrigo,7lPN2DXiMsVn7XUKtOW1CS,2021-01-08,27,242013,0.585,0.721,0.436,1.31e-05,0.105,0.132,-8.761,0.0601,143.874,10,4,sad
+In My Room,In My Room,Chance Peña,3SM7uIYEz3v3BGy9RHp7oU,2022-05-06,63,177609,0.408,0.521,0.338,0.000639,0.0732,0.1,-13.626,0.0431,133.943,4,3,sad
+Hurt,"falling out of love, songs",Various Artists,3XC70fONCTv5t7UYGEFsVS,2023-02-03,29,165818,0.559,0.774,0.334,4.02e-05,0.116,0.119,-8.047,0.0308,110.053,0,4,sad
+Only Love Can Hurt Like This - Slowed Down Version,Only Love Can Hurt Like This (Slowed Down Version),Paloma Faith,48CKzGWOC65n8a8kdANJV8,2022-02-28,70,257743,0.554,0.102,0.854,9.26e-05,0.554,0.387,-6.263,0.0567,82.012,6,4,sad
+Happiest Year,Happiest Year,Jaymes Young,5kcvBnt6DPX3AMEsCx1qDh,2019-07-12,27,228442,0.501,0.885,0.167,0.0,0.111,0.356,-14.061,0.0484,112.275,1,3,sad
+Easy On Me,Easy On Me,Adele,0gplL1WMoJ6iYaPgMCL0gX,2021-10-14,81,224694,0.604,0.578,0.366,0.0,0.133,0.13,-7.519,0.0282,141.981,5,4,sad
+serotonin,serotonin,kikomori,34P8aaDSBSuF8dboA1KgxO,2020-07-03,29,191000,0.708,0.708,0.452,0.584,0.263,0.305,-13.432,0.136,85.998,2,4,sad
+Dandelions - slowed + reverb,Dandelions (slowed + reverb),Ruth B.,6fhG2KJgwO7CrNflRaRmvp,2021-08-27,74,268717,0.573,0.0444,0.715,0.0,0.0898,0.258,-3.293,0.0256,101.699,8,3,sad
+Lights Are On,Z-Sides,Tom Rosenthal,4IhTXiZLKATmwhMZIb1GQN,2018-10-26,77,193749,0.44,0.981,0.04,0.465,0.111,0.249,-16.887,0.0322,135.965,3,4,sad
+Loverboy,Loverboy,A-Wall,3CboywxfJIgvHqi2FF4exb,2019-06-28,66,224520,0.604,0.649,0.466,0.0334,0.093,0.499,-10.093,0.0315,120.045,0,4,sad
+Hidden Angles,Hidden Angles,Humble Armada,5rx0dCwJlnoKjGET2HTvtZ,2022-09-09,30,273066,0.43,0.00237,0.776,0.0669,0.113,0.111,-5.23,0.034,143.931,11,4,sad
+Renegade,Renegade,Aaryan Shah,3yWF3DqFBNLvf7s4C7mKUm,2018-03-02,74,222576,0.551,0.509,0.561,0.367,0.369,0.207,-10.408,0.0559,103.118,9,4,sad
+Arcade,Small Town Boy (Track By Track),Duncan Laurence,1J14CdDAvBTE1AJYUOwl6C,2020-11-12,72,185146,0.453,0.827,0.35,0.00122,0.144,0.279,-11.639,0.0425,72.017,9,3,sad
+ghost town (voice memo),ghost town (voice memo),Chloe George,0PKAijroHpnEtdY20bkGdr,2021-03-30,60,137250,0.471,0.953,0.229,0.0,0.0909,0.358,-6.504,0.0358,68.41,8,3,sad
+omw,omw,Adriel Rivera,5Yyt1mlEq4McET3sxfsjyw,2022-06-25,32,164380,0.784,0.28,0.403,0.00679,0.108,0.291,-11.839,0.0421,120.032,6,4,sad
+Everybody Dies In Their Nightmares,17,XXXTENTACION,3GVkPk8mqxz0itaAriG1L7,2017-08-25,81,95466,0.734,0.847,0.57,2.14e-05,0.112,0.689,-7.066,0.133,129.953,7,4,sad
+Aesthetic,Aesthetic,Devonte Mayo,4S1T0kYOmevSYAknYWD9Yn,2020-03-06,36,208692,0.686,0.885,0.584,7.47e-05,0.278,0.71,-12.122,0.48,169.581,0,4,sad
+Masterpiece,Masterpiece,Liush,5RkhZf6mS0iWzsOZXQEUfL,2021-09-03,30,192058,0.516,0.813,0.219,9.59e-06,0.363,0.147,-11.074,0.0855,140.222,5,4,sad
+when the party's over,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Billie Eilish,43zdsphuZLzwA9k4DJhU0I,2019-03-29,80,196077,0.367,0.978,0.111,3.97e-05,0.0897,0.198,-14.084,0.0972,82.642,4,4,sad
+Lonely (with benny blanco),Justice,Justin Bieber,3S8jK1mGzQi24ilFb45DAZ,2021-03-19,70,149189,0.619,0.9,0.241,0.0,0.116,0.0719,-7.102,0.046,79.461,11,4,sad
+Moral of the Story,Moral of the Story,Ashe,2nC3QhMI9reBIOWutbU3Tj,2019-02-14,72,201083,0.572,0.587,0.406,4.48e-06,0.102,0.265,-8.624,0.0427,119.812,10,4,sad
+Same Old Mess,Same Old Mess,INTRN,6CoC7nWbj6JiebN7IbJ0Z8,2022-03-25,32,120000,0.64,0.906,0.177,0.00329,0.134,0.678,-14.649,0.0298,90.081,2,4,sad
+forsaken,forsaken,Paris Paloma,0L09BhquyZmuHSdKc010gd,2022-11-25,38,207306,0.52,0.948,0.156,0.000221,0.911,0.173,-12.867,0.0348,141.835,4,4,sad
+Heather,Kid Krow,Conan Gray,4xqrdfXkTW4T0RauPLv3WA,2020-03-20,84,198040,0.357,0.584,0.425,0.0,0.322,0.27,-7.301,0.0333,102.078,5,3,sad
+enough for you,SOUR,Olivia Rodrigo,2TOzTqQXNmR2zDJXihjZ2e,2021-05-21,73,202826,0.638,0.753,0.259,0.0,0.219,0.269,-10.706,0.0898,88.485,7,4,sad
+"if you need to, keep time on me",love 2.0,Various Artists,1jVbZbgm1j5vCIgsLaCts4,2022-02-11,29,212700,0.22,0.942,0.0879,0.279,0.0761,0.143,-19.441,0.0434,164.578,11,3,sad
+SLOW DANCING IN THE DARK,BALLADS 1,Joji,0rKtyWc8bvkriBthvHKY8d,2018-10-26,81,209273,0.515,0.544,0.479,0.00598,0.191,0.284,-7.458,0.0261,88.964,3,4,sad
+emails i can’t send,emails i can't send,Sabrina Carpenter,2qLyo5FeWquE7HBUbcVnEy,2022-07-15,68,104408,0.515,0.757,0.387,0.0,0.622,0.408,-10.614,0.192,86.313,7,3,sad
+Ghost,Justice,Justin Bieber,5dPz35akJjPqb17yeqNwqH,2021-03-19,72,153190,0.604,0.178,0.741,3.49e-05,0.409,0.473,-5.571,0.0475,153.947,2,4,sad
+September 24 - Single Version,September 24,Humble Armada,0OUPCm1zWmv51NRJd5teyf,2022-05-27,31,246200,0.497,0.00364,0.891,0.404,0.224,0.303,-6.995,0.0346,155.005,1,4,sad
+don't miss me,don’t miss me,Claire Rosinkranz,5MG69A9XyXDbBbeOxdR3Tl,2021-11-22,64,123949,0.796,0.793,0.727,2.49e-05,0.0858,0.818,-4.726,0.04,104.98,1,4,sad
+Seventeen Going Under,Seventeen Going Under,Sam Fender,1Dp7ASSZVVOPJ85VdLpjOX,2021-07-07,63,302360,0.477,0.00471,0.873,0.00589,0.0813,0.611,-4.946,0.0355,161.948,1,4,sad
+Could've Been (feat. Bryson Tiller),I Used To Know Her,H.E.R.,6oEVnWKgPqIEPc53OYDNqG,2019-08-30,75,252746,0.45,0.649,0.352,3.8e-06,0.249,0.408,-11.733,0.267,102.679,1,4,sad
+Let Me Know,Let Me Know,N. Drew,0Ms3qpsrYRmezC2CZLisXZ,2022-06-03,38,163652,0.691,0.368,0.579,2.63e-05,0.333,0.963,-4.674,0.0509,165.12,2,4,sad
+Bruises,Divinely Uninspired To A Hellish Extent,Lewis Capaldi,4Of7rzpRpV1mWRbhp5rAqG,2019-05-17,77,220492,0.736,0.946,0.308,0.0,0.186,0.361,-7.83,0.0677,111.202,4,4,sad
+Remember That Night?,Remember That Night?,Sara Kays,1nYzjrdVQ8RpF93M0jPFW7,2020-11-06,71,227186,0.679,0.585,0.61,9.51e-05,0.156,0.554,-10.936,0.0305,123.978,7,4,sad
+seaside_demo,seaside_demo,SEB,73M0rMVx5CWE8M4uATSsto,2021-05-17,6,132000,0.706,0.355,0.824,0.000133,0.111,0.86,-7.959,0.0694,94.98,0,4,sad
+Turning Time,love 2.0,Various Artists,2F1ha0lmHe74s96sN0mIhk,2022-02-11,39,192928,0.634,0.0583,0.618,0.0,0.226,0.368,-7.006,0.0503,118.88,0,4,sad
+IDK You Yet,IDK You Yet,Alexander 23,47EWMOElkkbMp5m9SBkx7d,2020-04-09,18,184638,0.629,0.884,0.306,0.0776,0.124,0.191,-11.735,0.0424,76.994,1,1,sad
+Happier Than Ever,Happier Than Ever,Billie Eilish,4RVwu0g32PAqgUiJoXsdF8,2021-07-30,82,298899,0.332,0.767,0.225,0.00349,0.128,0.297,-8.697,0.0348,81.055,0,3,sad
+Ophelia,Cleopatra,The Lumineers,3d8y0t70g7hw2FOWl9Z4Fm,2016-04-08,73,160097,0.664,0.613,0.573,0.000363,0.0857,0.566,-6.519,0.0277,76.023,5,4,sad
+Love Me Faster - Slowed + Reverb Version,Love Me Faster,Meric,3pBvN2qiaYy68TbjSTnv67,2022-09-30,32,169846,0.71,0.127,0.843,0.0217,0.106,0.29,-6.282,0.0471,110.186,8,4,sad
+Be Alright,Be Alright,Dean Lewis,3EPXxR3ImUwfayaurPi3cm,2018-06-29,76,196373,0.553,0.697,0.586,0.0,0.0813,0.443,-6.319,0.0362,126.684,11,4,sad
+Sofia,Immunity,Clairo,7B3z0ySL9Rr0XvZEAjWZzM,2019-08-02,76,188386,0.744,0.598,0.619,0.00372,0.231,0.641,-9.805,0.039,112.997,0,4,sad
+Let Me Down Slowly,Narrated For You,Alec Benjamin,2qxmye6gAegTMjLKEBoR3d,2018-11-16,81,169353,0.652,0.74,0.557,0.0,0.124,0.483,-5.714,0.0318,150.073,1,4,sad
+My Funny Valentine,love 2.0,Various Artists,5Ms4Os2PjYikmKXl0niKqM,2022-02-11,32,142516,0.442,0.232,0.487,0.0146,0.153,0.189,-8.472,0.0728,81.541,0,4,sad
+almost happy,almost happy,elijah woods,06SnkMUvEOai4zY9lGvuky,2022-11-18,59,137897,0.73,0.758,0.303,0.0,0.145,0.48,-9.526,0.0308,98.903,8,4,sad
+Train Wreck,Back from the Edge,James Arthur,55Am8neGJkdj2ADaM3aw5H,2016-10-28,77,208826,0.311,0.701,0.485,0.0,0.0726,0.225,-5.726,0.0365,77.355,6,4,sad
+"it only gets worse, i promise","it only gets worse, i promise",EKKSTACY,3Y1iVG5c7me95XqqFZY97x,2021-09-24,44,154640,0.43,0.000214,0.68,0.000209,0.389,0.359,-7.193,0.0421,165.935,7,4,sad
+Forever,Euphoria (Original Score from the HBO Series),Labrinth,6potEImiklXkwD9qFzpu15,2019-10-04,71,202536,0.563,0.92,0.459,0.724,0.11,0.197,-7.781,0.0292,79.983,4,4,sad

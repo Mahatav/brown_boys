@@ -1,0 +1,201 @@
+name,album,artist,id,release_date,popularity,length,danceability,acousticness,energy,instrumentalness,liveness,valence,loudness,speechiness,tempo,key,time_signature,Mood
+Uptown Funk (feat. Bruno Mars),Uptown Funk (feat. Bruno Mars),Mark Ronson,4rmPQGwcLQjCoFq5NrTA0D,2014-11-24,22,270626,0.853,0.00966,0.681,5.71e-05,0.0233,0.93,-5.003,0.0888,114.989,0,4,happy
+Hooked On A Feeling,Hooked On A Feeling,Blue Swede,6Ac4NVYYl2U73QiTt11ZKd,1973-04-01,69,172866,0.547,0.261,0.82,0.0,0.3,0.933,-6.728,0.0805,118.208,8,4,happy
+Music For a Sushi Restaurant,Harry's House,Harry Styles,5LYMamLv12UPbemOaTPyeV,2022-05-20,80,193813,0.72,0.258,0.715,0.0568,0.107,0.357,-4.652,0.04,107.041,11,4,happy
+A-Punk,Vampire Weekend,Vampire Weekend,5dKBaysNJtfpyNTRa5lqDb,2008-01-27,0,137760,0.551,0.0102,0.821,0.0438,0.153,0.842,-4.489,0.0539,174.923,2,4,happy
+Levitating (feat. DaBaby),Future Nostalgia,Dua Lipa,5nujrmhLynf4yMoMtj8AQF,2020-03-27,81,203064,0.702,0.00883,0.825,0.0,0.0674,0.915,-3.787,0.0601,102.977,6,4,happy
+Hey Ya!,The Way You Move / Hey Ya!,Outkast,3AszgPDZd9q0DpDFt4HFBy,2003,59,239240,0.715,0.0644,0.97,0.000156,0.205,0.963,-2.206,0.0648,79.504,0,4,happy
+Made You Look,Takin' It Back,Meghan Trainor,0QHEIqNKsMoOY5urbzN48u,2022-10-21,89,134256,0.838,0.345,0.525,1.92e-06,0.0771,0.884,-3.562,0.0665,144.981,10,4,happy
+Walking On Sunshine,Katrina & The Waves,Katrina & The Waves,05wIrZSwuaVWhcv5FfqeH0,1985,76,238733,0.596,0.0116,0.869,0.173,0.0678,0.944,-11.97,0.037,109.902,10,4,happy
+THATS WHAT I WANT,MONTERO,Lil Nas X,0e8nrvls4Qqv5Rfa2UhqmO,2021-09-17,80,143901,0.737,0.00614,0.846,0.0,0.0486,0.546,-4.51,0.22,87.981,1,4,happy
+Twist And Shout - Remastered,Please Please Me (Remastered),The Beatles,4Z1fbYp0HuxLBje4MOZcSD,1963-03-22,1,155226,0.482,0.641,0.849,7.74e-06,0.0414,0.937,-9.198,0.0452,124.631,2,4,happy
+Girlfriends,Girlfriends,High Tropics,0gsY8KBi8CuXePHxBjpysJ,2023-02-24,25,235171,0.373,0.00151,0.847,0.0108,0.11,0.538,-4.88,0.0462,140.03,4,4,happy
+Lisztomania,Wolfgang Amadeus Phoenix,Phoenix,7zkDEBSxkcBVsStS4qBFpK,2009,61,241546,0.635,0.0349,0.786,0.00767,0.497,0.305,-6.46,0.0377,97.54,0,4,happy
+Sunroof,Sunroof,Nicky Youre,4h4QlmocP3IuwYEj2j14p8,2021-12-03,84,163025,0.768,0.352,0.714,0.0,0.15,0.842,-5.11,0.0401,131.443,10,4,happy
+Don't Stop Me Now,Jazz,Queen,2RknY4IqSPwagR0v5wchIW,1978-11-10,0,209447,0.566,0.0175,0.876,0.0114,0.677,0.642,-4.6,0.187,156.291,0,4,happy
+Riptide,Dream Your Life Away (Special Edition),Vance Joy,3JvrhDOgAt6p7K8mDyZwRd,2014-09-09,77,204280,0.484,0.431,0.731,0.0,0.151,0.51,-6.694,0.0379,101.654,1,4,happy
+Video Killed The Radio Star,I Am Happy,Various Artists,6VwkgtOIlVboseFPCFnyJ2,2010-01-01,0,251533,0.679,0.139,0.79,0.00669,0.165,0.369,-6.934,0.059,131.177,1,4,happy
+Kiss Me More (feat. SZA),Planet Her,Doja Cat,3DarAbFujv6eYNliUTyqtz,2021-06-25,78,208666,0.764,0.259,0.705,8.92e-05,0.12,0.781,-3.463,0.0284,110.97,8,4,happy
+Mr. Brightside,Hot Fuss,The Killers,0eGsygTp906u18L0Oimnem,2004-06-15,0,222075,0.351,0.00113,0.928,0.0,0.0988,0.239,-3.71,0.0759,148.03,1,4,happy
+"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")","CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",Justin Timberlake,6JV2JOEocMgcZxYSZelKcc,2016-05-06,75,236001,0.666,0.0123,0.83,0.0,0.191,0.702,-5.715,0.0751,113.03,0,4,happy
+Wake Me Up Before You Go-Go,80s 100 Hits,Various Artists,6ZEAXknmx2mrO3KgcDNpFI,2010-02-26,50,223066,0.586,0.144,0.651,0.0,0.489,0.901,-10.16,0.048,81.397,0,4,happy
+A-O-K,TV,Tai Verdes,51PSUD2YHjPyAy3jnkaoy7,2021-05-20,0,173640,0.731,0.125,0.626,0.0,0.183,0.862,-6.919,0.0805,82.488,11,4,happy
+Should I Stay or Should I Go - Remastered,Hits Back,The Clash,3v8PlUFGQQDBIk1J86waCo,2013-08-26,59,188240,0.742,0.0832,0.838,0.0,0.418,0.848,-6.442,0.11,113.373,2,4,happy
+Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit,Get Lucky (feat. Pharrell Williams & Nile Rodgers) [Radio Edit],Daft Punk,2Foc5Q5nqNiosCNqttzHof,2013-04-19,78,248413,0.794,0.0426,0.811,1.07e-06,0.101,0.862,-8.966,0.038,116.047,6,4,happy
+Beggin',Chosen,Måneskin,3Wrjm47oTz2sjIgck11l5e,2017-12-08,82,211560,0.714,0.127,0.8,0.0,0.359,0.589,-4.808,0.0504,134.002,11,4,happy
+Lush Life,So Good,Zara Larsson,1rIKgCH4H52lrvDcz50hS8,2017-03-17,75,201122,0.694,0.132,0.712,0.0,0.211,0.799,-3.923,0.046,98.023,7,4,happy
+You Can't Always Get What You Want,Let It Bleed,The Rolling Stones,6lFZbCc7pn6Lme1NP7qQqQ,1969-12-05,64,448720,0.32,0.64,0.62,6.36e-05,0.253,0.472,-9.686,0.0594,86.327,0,4,happy
+Can I Get It,30,Adele,6w8ZPYdnGajyfPddTWdthN,2021-11-19,70,210384,0.703,0.0171,0.68,0.0,0.178,0.536,-6.118,0.0431,97.985,9,4,happy
+How Bizarre,How Bizarre,OMC,6RT3PxDEQOa7m6tK502DNa,1996,0,224053,0.784,0.261,0.675,1.4e-06,0.293,0.854,-7.718,0.049,124.908,0,4,happy
+Treasure,Unorthodox Jukebox,Bruno Mars,55h7vJchibLdUkxdlX3fK7,2012-12-07,77,178560,0.874,0.0412,0.692,7.24e-05,0.324,0.937,-5.28,0.0431,116.017,5,4,happy
+Come,Zanaka,Jain,1YrC8s6yZWw23QxW6rfM9f,2016-10-21,57,162266,0.818,0.232,0.783,0.00886,0.0803,0.819,-6.534,0.0444,99.992,1,4,happy
+Bam Bam (feat. Ed Sheeran),Bam Bam (feat. Ed Sheeran),Camila Cabello,0QBzMgT7NIeoCYy3sJCof1,2022-03-04,79,206070,0.756,0.182,0.697,0.0,0.333,0.956,-6.377,0.0401,94.996,8,4,happy
+Everybody Needs Somebody To Love,TPH Production Perform The Blues Brothers,The Blues Brothers,5olYKlNYCELRBQzxQ6Tr1V,2005-08-08,0,150125,0.525,0.18,0.686,2.66e-06,0.274,0.91,-8.879,0.0325,193.667,5,4,happy
+For Once In My Life,"falling in love, songs",Various Artists,0Vamcab1ClWW7u8rAiwT5d,2023-02-03,40,148235,0.594,0.576,0.705,0.0,0.374,0.372,-6.415,0.0396,102.062,1,4,happy
+Electric Love,Dopamine,BØRNS,2GiJYvgVaD2HtM8GqD9EgQ,2015-10-16,77,218106,0.611,0.00543,0.797,0.00137,0.26,0.518,-7.627,0.0533,120.041,6,4,happy
+Watermelon Sugar,Fine Line,Harry Styles,6UelLqGlWMcVH1E5c4H7lY,2019-12-13,85,174000,0.548,0.122,0.816,0.0,0.335,0.557,-4.209,0.0465,95.39,0,4,happy
+Don't Worry Be Happy,The Collection,Bobby McFerrin,5YbgcwHjQhdT1BYQ4rxWlD,1997-01-01,63,292400,0.681,0.881,0.163,7.62e-05,0.0688,0.771,-22.597,0.165,69.283,11,4,happy
+Supalonely,STELLA & STEVE,BENEE,4nK5YrxbMGZstTLbvj6Gxw,2019-11-15,67,223480,0.863,0.305,0.631,3.04e-05,0.123,0.817,-4.689,0.0534,128.977,7,4,happy
+I Got You (I Feel Good),Golden Moments,Various Artists,4ZrbWwFHHjPoe7cfUBJ9WQ,2010-09-06,0,168000,0.598,0.331,0.531,1.51e-06,0.0938,0.696,-7.484,0.0954,70.469,7,3,happy
+Sunday Best,Where the Light Is,Surfaces,1Cv1YLb4q0RzL6pybtaMLo,2019-01-06,72,158571,0.878,0.183,0.525,0.0,0.0714,0.694,-6.832,0.0578,112.022,5,4,happy
+Shiny Happy People,Out Of Time (U.S. Version),R.E.M.,4er8NyQ8cFnZ2b643Tjc44,1991-01-01,0,224800,0.491,0.00361,0.87,0.126,0.184,0.814,-5.99,0.0308,124.444,9,4,happy
+As It Was,As It Was,Harry Styles,4LRPiXqCikLlN15c3yImP7,2022-03-31,89,167303,0.52,0.342,0.731,0.00101,0.311,0.662,-5.338,0.0557,173.93,6,4,happy
+One Track Mind,One Track Mind,Zaide,67E2W74IlpFbSCcm46PZP3,2022-08-12,33,195943,0.601,0.014,0.691,0.177,0.268,0.863,-7.859,0.0435,150.944,1,4,happy
+Celebration - Single Version,Celebration / Morning Star,Kool & The Gang,6pc8xULSlsMdFB3OrqbvZ4,1980,0,215653,0.843,0.0466,0.656,0.0187,0.169,0.931,-11.184,0.0595,121.112,1,4,happy
+3 Nights,"Don't Forget About Me, Demos",Dominic Fike,0uI7yAKUf52Cn7y3sYyjiX,2018-10-16,67,177666,0.815,0.223,0.518,0.0,0.104,0.877,-6.594,0.0897,151.891,7,4,happy
+Gimme Hope Jo'Anna,Gimmie Eddy - [The Dave Cash Collection],Eddy Grant,6W99yGcIH43jskdRA7idD3,2011-05-09,43,243695,0.896,0.401,0.704,0.132,0.0884,0.98,-12.148,0.0402,128.685,10,4,happy
+Footloose,Footloose,LEFT.,5EKEYEvTy8GYCDSCgLPUsn,2021-10-22,34,168776,0.537,0.372,0.622,0.0,0.127,0.729,-6.602,0.224,99.905,7,4,happy
+All About That Bass,All About That Bass,Meghan Trainor,0ifSeVGUr7py5GggttDhXw,2014-06-30,57,188754,0.811,0.0476,0.879,1.91e-06,0.109,0.962,-3.724,0.0514,134.064,9,4,happy
+Home,Up From Below,Edward Sharpe & The Magnetic Zeros,0cBPuDA3xUjR4Vh9o7CKy8,2009-07-12,70,306320,0.541,0.289,0.591,0.000431,0.124,0.116,-6.688,0.0336,111.676,2,4,happy
+Cassy O',Wanted on Voyage,George Ezra,24fXShNbufmThxBTWWPfO1,2014-06-27,0,184133,0.544,0.0462,0.847,0.0,0.336,0.168,-4.794,0.0385,97.974,2,4,happy
+Jailhouse Rock,Elvis 30 #1 Hits,Elvis Presley,6pyex9B1kBoRIuabBAc4m8,2002-09-24,53,155333,0.635,0.314,0.672,5.03e-06,0.0688,0.895,-6.788,0.0637,166.903,10,4,happy
+Said and Done,Said and Done,Johnning,3jnMhpFIw1rtQh43XnNUxs,2022-04-08,44,174184,0.498,0.14,0.872,3.17e-06,0.103,0.553,-6.744,0.0977,170.056,2,4,happy
+Country House,Blur: The Best Of,Blur,4vnYwFOZCVl0bmerWyuzRw,2000-10-23,49,237733,0.341,0.147,0.895,0.0,0.0741,0.677,-6.66,0.076,174.987,9,4,happy
+Honeypie,For Abby,JAWNY,6FfLg6FFqhCsrFOaHIGkg0,2020-10-27,70,135581,0.74,0.061,0.688,0.0,0.138,0.935,-4.361,0.0916,115.035,5,4,happy
+You Make My Dreams (Come True),The Very Best of Daryl Hall / John Oates,Daryl Hall & John Oates,7HX9f8AMBl0vQxAoAzLqhS,2001-01-23,56,187600,0.749,0.13,0.484,0.137,0.0486,0.939,-9.944,0.0484,167.084,5,4,happy
+A.S.S. (always sunny somewhere),A.S.S. (always sunny somewhere),Camo Columbo,0lqtePau02eM0xmOUIZ3uE,2022-06-17,40,171428,0.713,0.218,0.607,2.34e-05,0.103,0.202,-4.388,0.0582,91.005,11,4,happy
+Mr. Blue Sky,Out of the Blue,Electric Light Orchestra,2RlgNHKcydI9sayD2Df2xp,1977,76,303373,0.388,0.652,0.338,3.73e-06,0.248,0.478,-10.054,0.0329,177.765,10,4,happy
+Treat People With Kindness,Fine Line,Harry Styles,03mMSLEJCPoGJwQhHpN5y0,2019-12-13,69,197346,0.653,0.128,0.869,2.2e-05,0.046,0.697,-3.725,0.0382,122.017,5,4,happy
+Grace Kelly,Life In Cartoon Motion,MIKA,4Sqc0kPuZpfI0T2TZBu8JT,2007-01-01,0,187733,0.676,0.0271,0.824,0.0152,0.363,0.696,-5.752,0.0449,122.221,0,4,happy
+Skate,Skate,Bruno Mars,2sXf2JdbB2GlNju00kw9WE,2021-07-30,2,203122,0.708,0.037,0.598,0.0,0.17,0.698,-8.365,0.0291,112.027,5,4,happy
+"Happy - From ""Despicable Me 2""",G I R L,Pharrell Williams,5b88tNINg4Q4nrRbrCXUmg,2014-03-03,0,232720,0.647,0.219,0.822,0.0,0.0908,0.962,-4.662,0.183,160.019,5,4,happy
+Feel It Still,Woodstock,Portugal. The Man,6QgjcU0zLnzq5OrUoSZ3OK,2017-06-16,74,163253,0.801,0.0417,0.795,0.000113,0.0717,0.754,-5.115,0.0504,79.028,1,4,happy
+"I'll Be There for You - Theme From ""Friends""",L.P.,The Rembrandts,15tHagkk8z306XkyOHqiip,1995-05-02,65,188359,0.32,0.0717,0.917,0.0,0.169,0.715,-5.903,0.0771,190.757,9,4,happy
+My Type,My Type - Single,Saint Motel,6WP4WTHzaPTCk1QrbRLhgL,2013-07-23,0,203526,0.594,0.0288,0.83,0.0215,0.261,0.69,-5.727,0.0632,117.973,10,4,happy
+Love Grows (Where My Rosemary Goes),Love Grows (Where My Rosemary Goes) & Other Gems,Edison Lighthouse,5Ts1DYOuouQLgzTaisxWYh,1970-01-01,72,174760,0.568,0.403,0.824,0.0,0.0855,0.753,-4.613,0.0299,108.625,9,4,happy
+Good Morning,Good Morning,High Tropics,3I5Qq3AwUCbj8Qb0KBqegb,2022-12-09,35,171226,0.439,8.5e-06,0.752,0.6,0.16,0.144,-6.001,0.0308,129.953,11,4,happy
+Dance Monkey,Dance Monkey (Stripped Back) / Dance Monkey,Tones And I,2XU0oxnq2qxCpomAAuJY8K,2019-10-17,74,209438,0.824,0.692,0.588,0.000104,0.149,0.513,-6.4,0.0924,98.027,6,4,happy
+Walk Of Life,Sultans Of Swing - The Very Best Of Dire Straits,Dire Straits,7w4Tbkbx081vRJa8ol56Qf,1998-11-10,0,249333,0.461,0.416,0.936,0.000135,0.136,0.811,-6.824,0.104,172.43,4,4,happy
+"Hey, Soul Sister","Hey, Soul Sister",Train,0KpfYajJVVGgQ32Dby7e9i,2009-08-06,0,216666,0.675,0.217,0.885,0.0,0.086,0.768,-4.432,0.0436,97.03,1,4,happy
+"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",Funk Wav Bounces Vol.1,Calvin Harris,5bcTCxgc7xVfSaMV3RuVke,2017-06-30,74,223413,0.893,0.0642,0.745,0.0,0.0943,0.872,-3.105,0.0571,101.018,11,4,happy
+Little Talks,Little Talks,Of Monsters and Men,3O0FuEfTpt3Zn6J3pXrXVO,2011-01-01,0,267413,0.466,0.0209,0.801,0.0,0.241,0.379,-5.175,0.0354,103.197,1,4,happy
+Mercy,Rockferry (intl Deluxe Edition),Duffy,1dKm4a7TOYFzzTQvU59C59,2008-01-01,0,219920,0.793,0.266,0.859,0.000356,0.133,0.964,-3.774,0.0332,129.912,0,4,happy
+Tripping Over Air,Tripping Over Air,Aidan Bissett,7mzPAftljnsFmU6131Pqcd,2022-09-09,66,182382,0.622,0.00185,0.799,1.08e-06,0.269,0.6,-4.811,0.0342,116.985,11,4,happy
+Surfin' U.S.A. - Remastered 2001,The Very Best Of The Beach Boys: Sounds Of Summer,The Beach Boys,7sVxvaLH9Bx9YZyBjdRpdQ,2003-01-01,39,148276,0.548,0.278,0.705,1.89e-06,0.158,0.964,-10.026,0.0375,159.307,8,4,happy
+Heat Waves,Dreamland (+ Bonus Levels),Glass Animals,02MWAaffLxlfxAUY7c5dvx,2020-08-06,83,238805,0.761,0.44,0.525,6.7e-06,0.0921,0.531,-6.9,0.0944,80.87,11,4,happy
+Accidentally In Love,Shrek 2,Various Artists,1hy6Dic0L5SU1XqjhYY1TR,2004-01-01,0,188893,0.556,0.0499,0.929,1.7e-06,0.0931,0.842,-3.659,0.037,137.996,7,4,happy
+Shine On,Konk,The Kooks,5zsvG3RApT8qMVl7673FqF,2008-01-01,48,194240,0.466,0.0763,0.634,0.0,0.0678,0.324,-5.3,0.0289,128.992,6,4,happy
+ABC,The Very Best Of Michael Jackson With The Jackson 5,Michael Jackson,6nzhhT57iQYrbqumru9NNP,1995,0,179973,0.559,0.448,0.752,0.00061,0.0907,0.946,-10.046,0.0581,187.712,8,4,happy
+The Wire,Days Are Gone (Deluxe Edition),HAIM,7KdF7Zac5eC9jutk9Qret4,2013-01-01,57,245800,0.548,0.0126,0.632,4.95e-06,0.0769,0.535,-5.569,0.145,113.682,2,4,happy
+Dancing in the Moonlight,Dancing In The Moonlight: The Best Of Toploader,Toploader,1FHNctV68GUNLgXclG2DtR,2009-04-22,63,233373,0.639,0.0528,0.845,0.0,0.336,0.871,-3.333,0.0372,119.48,0,4,happy
+Don't Start Now,Future Nostalgia,Dua Lipa,3PfIrDoz19wz7qK7tYeu62,2020-03-27,79,183290,0.793,0.0123,0.793,0.0,0.0951,0.679,-4.521,0.083,123.95,11,4,happy
+Posh Kid,Posh Kid,Gasch,68LD8P1989xcYJKZA3aqRV,2021-03-12,29,156000,0.806,0.414,0.467,0.00304,0.0881,0.565,-11.021,0.12,101.048,4,4,happy
+I'm Gonna Be (500 Miles),Finest,The Proclaimers,66S14BkJDxgkYxLl5DCqOz,2003-09-01,68,219466,0.851,0.151,0.551,0.0,0.0827,0.807,-5.177,0.0396,131.922,4,4,happy
+Pretty Shining People,Staying at Tamara's,George Ezra,2JVwsN6viHjR9t5pCPQ4Br,2018-03-23,60,212446,0.584,0.14,0.726,0.0,0.0984,0.398,-4.604,0.0371,106.979,1,4,happy
+It's Tricky,Raising Hell,Run–D.M.C.,6jBCehpNMkwFVF3dz4nLIW,1986-05-15,67,183760,0.965,0.00131,0.857,0.0,0.0726,0.951,-8.458,0.17,127.656,11,4,happy
+About Damn Time,About Damn Time,Lizzo,1PckUlxKqWQs3RlWXVBLw3,2022-04-14,82,191822,0.836,0.0995,0.743,0.0,0.335,0.722,-6.305,0.0656,108.966,10,4,happy
+Homesick,Homesick,Arya,1hmV2cFt3tJfvOc9zwzytY,2021-03-20,30,166400,0.741,0.439,0.711,0.0,0.116,0.801,-9.359,0.126,74.989,5,4,happy
+Viva La Vida,Viva La Vida or Death and All His Friends,Coldplay,1mea3bSkSGXuIRvnydlB5b,2008-05-26,83,242373,0.486,0.0954,0.617,3.23e-06,0.109,0.417,-7.115,0.0287,138.015,5,4,happy
+Sunny,Take The Heat Off Me,Boney M.,3pf96IFggfQuT6Gafqx2rt,1976,65,242240,0.647,0.088,0.868,0.124,0.129,0.804,-6.427,0.106,121.82,0,4,happy
+Drinking Wine,Hand Over Your Head,Oscar Lang,2zJGwCm2cqkb7q0qrOIMpY,2020-09-11,30,209803,0.434,2.64e-05,0.958,0.000245,0.101,0.746,-3.558,0.0543,145.063,11,4,happy
+The Bad Touch,Nu Rock,Various Artists,2qONptRzQM0D3BGOgAsapI,2007-01-01,41,259506,0.818,0.00209,0.688,0.0541,0.282,0.971,-7.083,0.0379,122.983,0,4,happy
+Love Natural,Cave Rave,Crystal Fighters,04MNyOQZDvLsW2gjAm9q2L,2013-05-27,0,199526,0.654,0.0392,0.791,0.0,0.321,0.603,-6.243,0.048,133.042,11,4,happy
+All My Friends Are Stoned,What About Now - EP,WizTheMc,7BL33HmuFQien4olebugdj,2020-10-30,47,159118,0.794,0.0871,0.628,0.0,0.181,0.935,-4.321,0.0328,121.793,6,4,happy
+On Top Of The World,Night Visions,Imagine Dragons,213x4gsFDm04hSqIUkg88w,2012-09-04,73,192280,0.631,0.0841,0.924,3.59e-06,0.084,0.755,-5.589,0.146,100.045,0,4,happy
+I'm So Excited,So Excited! (Expanded Edition),The Pointer Sisters,1ot6jEe4w4hYnsOPjd3xKQ,1982-02-01,69,230640,0.59,0.0962,0.868,0.000322,0.442,0.798,-5.832,0.048,184.348,5,4,happy
+My Girl,My Girl,High Tropics,4S46FETQcxhXROubIV11M3,2021-02-05,32,165809,0.692,0.0881,0.832,0.0674,0.183,0.858,-4.414,0.0291,112.007,0,4,happy
+Proud Mary,Bayou Country (Expanded Edition),Creedence Clearwater Revival,6pxWv6GV35VGmcPf5dh6CH,1969-01-05,70,187213,0.699,0.13,0.641,0.000218,0.0601,0.728,-7.564,0.0289,120.745,2,4,happy
+Best Fake Smile,Chaos And The Calm,James Bay,0Me1AKVY2wzxOKLMiaAtNy,2015-03-20,42,205026,0.689,0.0231,0.887,0.0,0.275,0.937,-4.27,0.0424,142.014,11,4,happy
+Conga!,The Very Best Of Gloria Estefan (English Version),Gloria Estefan,0KxTWgl64TNOQXiGFJYc6t,1984,53,252933,0.782,0.141,0.873,0.0571,0.112,0.858,-7.157,0.0475,123.181,2,4,happy
+Norgaard,What Did You Expect from the Vaccines?,The Vaccines,1Q8reqCOXg2yqNr47HGo9X,2011-03-11,0,98400,0.323,5.12e-06,0.847,0.0208,0.25,0.859,-4.716,0.0348,173.914,11,4,happy
+Dynamite,BE,BTS,4saklk6nie3yiGePpBwUoc,2020-11-20,5,199053,0.746,0.0112,0.765,0.0,0.0936,0.737,-4.41,0.0993,114.044,6,4,happy
+I'm Good,I'm Good,The Mowgli's,2kiJ5lZQZusgWwpqA7z2i1,2015-02-03,0,166920,0.613,0.00892,0.923,0.0,0.149,0.669,-5.234,0.0691,96.043,0,4,happy
+Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit,Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit],Riton,4cG7HUWYHBV6R6tHn1gxrl,2021-01-15,77,169153,0.824,0.0076,0.862,0.000132,0.303,0.801,-3.424,0.126,122.98,2,4,happy
+Tainted Love - Single Version,Tainted Love: The Original Single,Gloria Jones,0BbA7S30mOQB94e4IBnqCt,1982-01-01,47,131160,0.516,0.652,0.684,0.0,0.685,0.84,-5.659,0.0797,161.167,8,4,happy
+Jungle Drum,Me And Armini,Emilíana Torrini,7BXToqZFtclAj6mshYWena,2008-09-08,0,133466,0.636,0.134,0.881,0.00952,0.074,0.845,-5.376,0.0758,118.237,2,4,happy
+Friday I'm In Love,Wish,The Cure,20CNpCKq1oTdvekXaboyeq,1992-04-21,0,215160,0.526,0.00126,0.763,6.75e-05,0.359,0.514,-12.663,0.0341,136.205,0,4,happy
+Feel Good Inc.,Demon Days,Gorillaz,0d28khcov6AiegSCpG5TuT,2005-05-23,80,222640,0.818,0.00836,0.705,0.00233,0.613,0.772,-6.679,0.177,138.559,6,4,happy
+Delilah,Delilah,3409,7MDSd5MwBcZuvZBHmWIkiy,2020-11-19,30,131200,0.685,0.148,0.498,8.35e-06,0.112,0.743,-6.532,0.0652,150.101,2,4,happy
+One Way Or Another,Atomic: The Very Best Of Blondie,Blondie,5Q7cE6wGHMehLFo2ppkk5D,1998-01-01,50,208360,0.445,0.00402,0.872,0.00909,0.047,0.834,-6.294,0.0602,162.407,6,4,happy
+Adventure of a Lifetime,Adventure of a Lifetime,Coldplay,4MFCXniy7I8tj0GXtf3wgC,2015-11-06,52,263786,0.638,0.00205,0.924,0.000175,0.149,0.53,-3.887,0.036,111.995,7,4,happy
+My Generation - Mono Version,The Who Sings My Generation (U.S. Version),The Who,45s88Xopo6KvHc0PQ05aGg,1966-04-01,49,198866,0.299,0.14,0.787,0.0,0.292,0.716,-7.93,0.069,94.798,0,4,happy
+Havana (feat. Young Thug),Camila,Camila Cabello,1rfofaqEpACxVEHIZBJe6W,2018-01-12,77,217306,0.765,0.184,0.523,3.56e-05,0.132,0.394,-4.333,0.03,104.988,2,4,happy
+"Rudy, A Message To You",Massive Reggae,Various Artists,0FXJkC3XA6UOyvti331jQw,2008-01-01,0,152880,0.936,0.0211,0.414,0.453,0.11,0.899,-8.942,0.0791,107.438,9,4,happy
+Homerun (Radio Edit),Homerun (Radio Edit),The Brahms,6fWMEDCURTkeP9bPYvzcJe,2015-10-14,36,159407,0.532,0.0104,0.831,0.000183,0.0801,0.764,-4.359,0.0456,93.948,9,4,happy
+Uptown Girl,The Essential Billy Joel,Billy Joel,3CSpzkoL1XgDBZ1q9aDCUV,2001-10-02,59,194866,0.696,0.0736,0.943,0.0,0.653,0.832,-2.962,0.043,129.002,4,4,happy
+Desire,Communion (Deluxe),Years & Years,6TMzuNLw1ZPgBqPKmnnObm,2015-07-10,51,203204,0.706,0.299,0.777,0.0,0.298,0.638,-4.591,0.0567,126.008,10,4,happy
+Happy Hour,Soup,The Beautiful South,37i2PeqCGD4WqfGZeQgmXy,2007-01-01,30,142440,0.51,0.113,0.918,2.31e-06,0.115,0.94,-6.219,0.0433,95.876,10,4,happy
+Best Day Of My Life,American Authors,American Authors,44AXd3UVaaVYsSQqBpnYO2,2013-01-01,0,194093,0.673,0.0525,0.901,0.000535,0.0736,0.503,-2.379,0.0348,100.002,2,4,happy
+Modern Love - Single Version; 2002 Digital Remaster,Best Of Bowie,David Bowie,2Rkfv2emuT4A1QU6dJmf5V,2002-10-21,0,238293,0.464,0.00227,0.895,0.00394,0.13,0.932,-7.683,0.031,91.905,0,4,happy
+Chelsea Dagger,Costello Music,The Fratellis,1bCmvezFg5MRcENzCGG1Cy,2006-01-01,66,215306,0.511,0.0491,0.815,0.0,0.0826,0.586,-3.14,0.144,154.514,7,4,happy
+"Sugar, Sugar","Sugar, Sugar",The Archies,4GAI8BxeMgrvhZNEU59UfR,2007-01-01,53,169626,0.757,0.757,0.647,3.08e-06,0.0972,0.97,-10.264,0.0299,122.771,2,4,happy
+Suddenly I See,Eye To The Telescope,KT Tunstall,5p9XWUdvbUzmPCukOmwoU3,2005-01-01,70,201706,0.587,0.225,0.767,0.0,0.112,0.664,-5.713,0.0449,100.38,0,4,happy
+If You Wanna Be Happy,If You Wanna Be Happy,Jimmy Soul,3eKkMH08IN5qbjp8wv6cV8,2014-03-07,25,143229,0.639,0.611,0.875,1.18e-05,0.204,0.873,-8.231,0.0413,93.242,10,4,happy
+Everybody Talks,Everybody Talks,Neon Trees,74mS2Q0bTQsq3dHuQ55Zj8,2011-12-19,0,179386,0.479,0.00767,0.931,0.0,0.306,0.708,-3.976,0.0613,154.931,8,4,happy
+Start Me Up,GRRR! (Deluxe Version),The Rolling Stones,52MW2hwNmLa0KdsZZk8360,2012-01-01,0,212960,0.629,0.0273,0.905,0.199,0.0644,0.967,-4.745,0.0378,122.448,5,4,happy
+Get Up,Get Up,Rival,4p0NFm5EputEZSv8aMyoud,2021-05-28,42,171272,0.745,0.0237,0.713,0.00105,0.215,0.755,-6.668,0.0633,109.997,6,4,happy
+Shotgun,Staying at Tamara's,George Ezra,4ofwffwvvnbSkrMSCKQDaC,2018-03-23,74,201287,0.673,0.286,0.735,0.0,0.242,0.754,-4.733,0.0457,115.744,5,4,happy
+Can't Buy Me Love - Remastered 2015,1 (Remastered),The Beatles,7pQAq14Z73YUFMtxCyt0bG,2000-11-13,0,131213,0.426,0.118,0.76,0.0,0.325,0.955,-4.082,0.0414,171.838,0,4,happy
+dumb dumb,the rainbow cassette,mazie,4qbEaaJ29p32GI8EWQmm6R,2021-08-25,69,125256,0.783,0.22,0.472,0.000458,0.0798,0.589,-8.392,0.0427,122.052,2,4,happy
+Side Effects (feat. Emily Warren),Sick Boy...Side Effects,The Chainsmokers,5yNEdBlZMxpcVtGKz5NFk5,2018-07-27,0,173613,0.673,0.00277,0.71,0.0,0.55,0.54,-6.744,0.0324,110.017,8,4,happy
+Beautiful Day,All That You Can't Leave Behind,U2,0gzqZ9d1jIKo9psEIthwXe,2000-01-01,70,248400,0.536,0.0154,0.928,0.00134,0.2,0.389,-6.492,0.0589,136.258,11,4,happy
+It's Love (but it's not mine),It's Love (but it's not mine),EUT,6i9uagZQiliNoEW8Jp10dX,2019-10-10,0,223813,0.516,0.000178,0.805,0.00135,0.413,0.72,-8.017,0.0311,136.67,5,4,happy
+You Can't Hurry Love,"Hello, I Must Be Going",Phil Collins,4YUlGNZfYA6EUE5KDsGqpC,1982-11-17,0,175346,0.639,0.0674,0.923,0.0,0.0879,0.761,-5.708,0.032,97.874,7,4,happy
+Don't Stop (Color on the Walls),Torches,Foster The People,4HRa9ZWcmZ8JD7UySPu0wT,2011-05-23,59,174920,0.611,0.00183,0.948,0.0995,0.0969,0.79,-3.751,0.0753,133.004,1,4,happy
+I'm Still Standing,Too Low For Zero,Elton John,1jDJFeK9x3OZboIAHsY9k2,1983-05-30,81,183440,0.504,0.356,0.904,0.121,0.14,0.772,-6.863,0.179,176.808,6,4,happy
+Girls,The 1975,The 1975,5WSdMcWTKRdN1QYVJHJWxz,2013-01-01,60,254620,0.657,0.00392,0.913,0.00149,0.466,0.906,-4.984,0.0528,108.036,11,4,happy
+Shivers,Shivers,Ed Sheeran,75MNhvTCCKsST3YqqUiU9r,2021-09-13,70,207853,0.788,0.281,0.859,0.0,0.0424,0.822,-2.724,0.0856,141.02,2,4,happy
+Let's Fall in Love Some More,Experience the Al Bairre Show With Al Bairre Experience,Al Bairre,1SZN00cfG8T8UxDmJeqjuv,2015-11-21,34,198826,0.607,0.0668,0.924,0.0,0.117,0.778,-5.684,0.0703,134.975,7,4,happy
+Alter Ego,Alter Ego,KALEO,4WkwaDueMMiU1bKHh31B6C,2020-03-13,36,248132,0.543,0.00379,0.739,2.29e-06,0.343,0.665,-5.618,0.0399,122.016,1,4,happy
+Born to Be Alive - The Original,Born to Be Alive (The Original),Patrick Hernandez,3XIEWK1V9n25PS9Vb6axj5,1978,69,188133,0.704,0.0834,0.868,0.0,0.206,0.808,-5.808,0.0315,131.468,2,4,happy
+Smaller,Smaller,Erik Hassle,1gStng1TuTLt0SaISWL14r,2015-11-20,29,205093,0.405,0.415,0.728,0.0,0.0777,0.342,-4.76,0.0433,188.701,7,4,happy
+All Star,All Star Smash Hits,Smash Mouth,22c2pt75xtnDddA5Zlm0yy,2005-01-01,0,200560,0.73,0.0398,0.862,0.0,0.0818,0.77,-5.876,0.0313,104.018,11,4,happy
+Got My Mind Set On You,Now & Then,Damien Leith,5CPayysVhU2BlNXw2kG59L,2012-04-23,47,227800,0.674,0.0338,0.84,0.000441,0.0941,0.875,-3.879,0.0746,150.011,1,4,happy
+Price Tag,Who You Are (Platinum Edition),Jessie J,2fTsFCKRFQ5M0igJgabnLA,2011-01-01,71,223053,0.636,0.0294,0.831,3.85e-06,0.272,0.668,-3.945,0.182,175.015,5,4,happy
+Jerk It Out,Love For The Streets,Caesars,5XMjXjwCkJVmk0AHm7z8IV,2002,63,195666,0.58,0.0171,0.981,1.07e-05,0.386,0.861,-2.603,0.06,134.007,8,4,happy
+Rather Be (feat. Jess Glynne),New Eyes,Clean Bandit,61dCUoMCg28qEBzrW6htYM,2014-06-02,69,227833,0.799,0.162,0.586,2.03e-06,0.193,0.549,-6.735,0.0377,120.97,11,4,happy
+Baby Love,Lil Empire,Petite Meller,1YyHm1dSJ2JBK0QK769Z82,2016-09-09,37,221721,0.621,0.2,0.915,0.00332,0.0964,0.818,-5.224,0.0411,130.013,1,4,happy
+Bohemian Like You,Alternative,Various Artists,7jA4agDnt1Oc6Fn2hifX0t,2008-04-28,40,208906,0.578,0.00305,0.936,0.687,0.47,0.659,-5.761,0.0364,131.268,9,4,happy
+High,Young Rising Sons,Young Rising Sons,4gTwPFGhIIlYtlo59jbVUB,2014-07-08,50,165720,0.646,0.028,0.85,7.21e-05,0.281,0.518,-5.145,0.043,116.999,7,4,happy
+Barbara Ann,Spirit Of America,The Beach Boys,2KOt2JrCB720UxIbyzweQo,1975-04-14,59,133893,0.581,0.19,0.669,0.0,0.243,0.926,-3.659,0.0385,78.073,6,4,happy
+LA Calling,Cave Rave,Crystal Fighters,4fCHoHmwmX8LgAp6A1GULJ,2013-05-27,0,229243,0.574,0.0607,0.887,2.41e-06,0.334,0.622,-6.172,0.0565,136.057,11,4,happy
+Come On Eileen,Too Rye Ay,Dexys Midnight Runners,4jKojTEsrJtUU5rNp3gbGQ,1982-08,0,273933,0.435,0.519,0.652,0.0,0.129,0.806,-8.495,0.0404,108.097,0,4,happy
+San Francisco,Love's Not Dead EP,The Mowgli's,3zdI8HDPKoMsCRkmpQTblk,2012-01-01,30,172893,0.363,0.0131,0.893,0.0,0.0825,0.37,-4.81,0.0584,93.041,11,4,happy
+Hit The Road Jack,Miami Lighthouse for the Blind Presents: Instrumental Magic,Jeff Zavac,7sXxvOVFtMr31xj0kX9BFV,2006-10-01,0,129906,0.593,0.0841,0.752,0.00308,0.197,0.935,-6.617,0.0313,172.087,8,4,happy
+Work This Body,TALKING IS HARD,WALK THE MOON,76EeScTnI2sCjDY0SfEoSb,2014-12-02,58,175906,0.421,0.0283,0.831,0.0,0.464,0.488,-5.128,0.106,134.184,4,4,happy
+I'm a Believer,The Definitive Monkees,The Monkees,5RKZ9zCtLjBLTea7qkSFqr,2001-01-29,33,166906,0.519,0.534,0.772,1.21e-05,0.271,0.961,-6.784,0.0331,79.618,0,4,happy
+Iko Iko (My Bestie),Iko Iko (My Bestie),Justin Wellington,7MC4XR9M9amdmKQr2iDF7i,2019-06-03,68,182857,0.862,0.131,0.753,2.01e-06,0.077,0.827,-5.356,0.0625,105.039,5,4,happy
+Walkin' On The Sun,Smash Mouth (International Version),Smash Mouth,1m2EwoCsZlX5JauNr9O4zk,2001-01-01,0,205826,0.732,0.456,0.973,0.0,0.154,0.967,-5.33,0.0319,123.292,6,4,happy
+Go Your Own Way,Rumours,Fleetwood Mac,0FeCO85RKW8fDRytwXof2x,1977-02-04,0,218400,0.597,0.0219,0.812,0.00106,0.102,0.823,-12.062,0.0315,135.68,5,4,happy
+All That She Wants,Happy Nation,Ace of Base,12BbMJsJi65mxneq6c9Lm7,1992-11-16,0,211213,0.707,0.00526,0.628,8.21e-05,0.104,0.87,-9.684,0.0877,187.548,11,4,happy
+Song Away,Song Away,Hockey,0mIPUewslxddIZHnWuPnMD,2009-01-01,20,198320,0.639,0.0276,0.72,0.0,0.113,0.921,-4.253,0.0284,131.797,6,4,happy
+Gotta Go Home,America - Das Party Album,Boney M.,0SDcjtJXrI6jAtD6AkQ6SR,2009-08-31,37,224453,0.74,0.223,0.945,0.116,0.356,0.975,-5.666,0.0314,131.644,1,4,happy
+Something That I Want,Enredados (Rapunzel) OST,Various Artists,5faGyT8owqkeioEf5PDeIB,2011-01-01,0,163400,0.551,0.0123,0.834,0.000936,0.472,0.962,-5.882,0.0482,168.944,5,4,happy
+"Moves Like Jagger - Studio Recording From ""The Voice"" Performance",Hands All Over (Revised International Standard version),Maroon 5,7pYfyrMNPn3wtoCyqcTVoI,2010,77,201493,0.722,0.0117,0.761,0.0,0.315,0.624,-4.459,0.0475,128.044,11,4,happy
+Heavy,Heavy,Animal House,2XAZbgSesR2bdSNkBFJmyu,2014-11-01,32,139088,0.507,0.00164,0.753,0.00087,0.168,0.968,-4.064,0.0339,179.948,11,4,happy
+Rock Around the Clock,Rock Around the Clock (20 Hits),Bill Haley,3vGmNTCxk0OnOWbzIVFHgK,2007-06-10,0,133226,0.806,0.267,0.657,0.000182,0.224,0.702,-11.574,0.158,89.492,9,4,happy
+Stronger (What Doesn't Kill You),Stronger (Deluxe Version),Kelly Clarkson,1nInOsHbtotAmEOQhtvnzP,2011-10-24,71,221946,0.562,0.046,0.939,0.0,0.112,0.684,-4.282,0.0475,116.044,0,4,happy
+I Will Wait,Babel (Deluxe Version),Mumford & Sons,71O1jD7bF3cdMPvPi186V6,2012-09-21,0,276720,0.477,0.0155,0.776,0.00314,0.203,0.429,-5.056,0.0349,131.004,1,4,happy
+99 Red Balloons,The Definitive 80's (eighties),Various Artists,0XSxZ0cpHcZIpPA7TgSOwZ,2007-12-10,0,230186,0.474,0.187,0.57,0.0,0.106,0.535,-3.188,0.068,94.16,4,4,happy
+Sister Of Pearl,Sister Of Pearl,Baio,1iF2TYT5ScZ2BStvrrxyrE,2015-06-16,0,253439,0.736,0.0808,0.676,0.149,0.197,0.935,-7.28,0.0408,125.046,5,4,happy
+So Lonely,The Very Best Of Sting And The Police,Sting,36sl2chZHvRyHlAooKr5va,2002-01-01,0,287920,0.532,0.0182,0.586,9.8e-06,0.0963,0.737,-7.503,0.179,77.705,7,4,happy
+Perfect Strangers,Perfect Strangers,Jonas Blue,1Te8WIfLudxjHTr66BL0JK,2016-06-03,0,196613,0.731,0.394,0.822,0.0,0.288,0.708,-5.305,0.0459,118.021,1,4,happy
+It's Just Gotta Be That Way,It’s Just Got To Be That Way / There Goes My Baby,Bobby Angelle,1ALSCAxmx0zSt27vzEtLkZ,2015-02-23,0,165426,0.683,0.533,0.719,1.84e-05,0.112,0.907,-4.568,0.0299,118.731,7,4,happy
+I Spy,I Spy EP,Mikhael Paskalev,3lo2RJDjqTUePp6KhGu3Eq,2013-11-18,0,160933,0.628,0.377,0.886,8.65e-06,0.186,0.694,-4.253,0.0485,123.942,11,4,happy
+Give It Up,Summer Sensations,Various Artists,4AdgZcX33Iq9fQGRHWDr5j,2011-07-10,0,245706,0.837,0.0754,0.592,0.000251,0.0671,0.836,-14.264,0.0671,125.686,3,4,happy
+On Our Way,Royal,The Royal Concept,2cT0rywZk7Mz7xZEpjdZde,2013-01-01,0,193853,0.582,0.00777,0.787,0.0,0.182,0.368,-5.923,0.0877,130.953,1,4,happy
+Sweet About Me,Sweet About Me (e-MAXI INT),Gabriella Cilmi,2Wbf4FpDxo9CGmepoV2RfU,2008-01-01,31,203280,0.682,0.164,0.724,0.0,0.301,0.491,-5.055,0.0306,132.051,3,4,happy
+Woo Hoo,Kill Bill Vol. 1 Original Soundtrack (PA Version),Various Artists,6S9lcjREUTU4Yv5y7oMcv2,2003-09-23,42,119386,0.566,0.732,0.811,0.638,0.596,0.961,-9.849,0.0435,127.944,11,4,happy
+Paint a Smile On Me - Radio Edit,Paint a Smile On Me,Black Yaya,2hrsRRydXNtspNSehQU8RD,2013-09-09,0,203934,0.736,0.0393,0.813,1.64e-06,0.164,0.933,-4.296,0.0853,118.968,7,4,happy
+The Game of Love - Main/Radio Mix,Ultimate Santana,Santana,2RjkntlqlkbPFQjufJf8G9,2007-10-10,0,254213,0.597,0.0776,0.93,0.000404,0.0566,0.693,-3.23,0.0477,119.788,2,4,happy
+Beat Of My Drum,Legendary,POWERS,6TGQYJzWx0IJrzK41mvSFG,2015-10-16,0,206280,0.774,0.053,0.91,9.67e-06,0.095,0.881,-2.456,0.0722,120.02,4,4,happy
+Stuck In The Middle With You,Reservoir Dogs (Original Motion Picture Soundtrack),Various Artists,1b7LMtXCXGc2EwOIplI35z,2009-01-01,63,203893,0.795,0.0934,0.564,0.000531,0.0631,0.961,-10.482,0.0392,124.166,7,4,happy
+If You Wanna Stay,Be Impressive,The Griswolds,6cfPJNoqJsiikMm2TmpiwT,2014-08-25,0,159853,0.543,0.000459,0.946,0.000259,0.108,0.221,-3.888,0.0391,116.515,5,4,happy
+Summer Of '69,Reckless,Bryan Adams,6cnd6UwOyvEPWUjuuDKMIP,1984-11-01,0,216426,0.508,0.0157,0.725,1.26e-06,0.0995,0.741,-10.795,0.0344,138.934,2,4,happy
+Lightning Bolt,Jake Bugg,Jake Bugg,5s9sZ2i76iAZeFt5f9uUKP,2012-01-01,0,144013,0.561,0.0634,0.846,0.0,0.193,0.75,-4.48,0.0867,116.168,9,4,happy
+American Pie,The Best Of Don McLean,Don McLean,2QgWuCtBpNIpl5trmKCxRf,1988-01-01,63,515866,0.526,0.6,0.509,0.0,0.144,0.497,-10.893,0.0628,138.318,7,4,happy
+Pretoria Girls,Enjoy Yourself,Desmond and the Tutus,6zkVSIgcGnqromeMTYmXv4,2015-11-02,33,262706,0.553,0.00585,0.724,4.72e-05,0.366,0.383,-6.486,0.0359,128.024,2,4,happy
+Faith - Remastered,Faith,George Michael,0HEmnAUT8PHznIAAmVXqFJ,1987-10-30,71,193200,0.887,0.0094,0.48,3.58e-05,0.0662,0.607,-11.994,0.117,95.846,11,4,happy
+Cooler Than Me (feat. Big Sean),Cooler Than Me EP,Mike Posner,2DPYlWl50ydYsnnuryL5aX,2009-12-15,64,227840,0.837,0.103,0.515,0.0,0.233,0.769,-4.065,0.0793,129.001,7,4,happy
+Town Called Malice,The Jam Story,The Jam,73RGpQg8Cxtly4QuHtNiOd,2006-06-05,0,172866,0.534,0.000855,0.943,0.0264,0.0697,0.823,-5.898,0.0845,101.754,2,4,happy
+I Gotta Have It,Jace Everett,Jace Everett,7mltbDRKBRKXff3dOtwqcA,2006-01-01,26,163893,0.533,0.269,0.964,6.29e-05,0.0642,0.812,-4.712,0.0878,156.149,4,4,happy
+Move Your Feet,D-D-Don't Don't Stop the Beat,Junior Senior,7cGfrVoC7G03XeXn7yflx5,2002-04-03,0,181826,0.747,0.046,0.904,0.106,0.203,0.846,-2.623,0.0803,118.877,9,4,happy
+Sweet Home Alabama,Lynyrd Skynyrd,Lynyrd Skynyrd,74QCZPlpayjvQ4yJJFljfQ,1991-01-01,0,285160,0.601,0.181,0.593,0.000441,0.121,0.902,-11.685,0.0257,97.784,0,4,happy
+Restless Year,Restless Year,Ezra Furman,3VuPTxBQqGGuXH0u0ic14D,2015-03-09,0,145000,0.704,0.0383,0.845,2.03e-05,0.12,0.623,-9.516,0.0535,94.52,9,4,happy
+Waterloo,18 Hits (International Version),ABBA,2p0QBZeBS5WGZG4P7SbQv0,2005-01-01,0,166333,0.441,0.423,0.908,2.88e-06,0.325,0.808,-6.481,0.0425,147.597,2,4,happy
+Ain't No Mountain High Enough - Stereo Version,20th Century Masters: The Millennium Collection: The Best Of Marvin Gaye & Tammi Terrell,Tammi Terrell,4gbR24XpCUTkoElYKZlrpO,2000-01-01,0,149066,0.674,0.27,0.794,2.47e-06,0.211,0.685,-7.361,0.0726,129.292,7,4,happy
+Tongue Tied,Never Trust a Happy Song,Grouplove,0GO8y8jQk1PkHzS31d699N,2011-09-02,75,218013,0.56,0.00847,0.936,0.0,0.161,0.371,-5.835,0.0439,112.96,3,4,happy
+Rock DJ - 2004 Mix,In And Out Of Consciousness: Greatest Hits 1990 - 2010,Robbie Williams,0lJEYLAJU5KtthQroas2ou,2010-01-01,45,257373,0.709,0.0229,0.768,0.0,0.417,0.869,-4.274,0.0324,103.036,7,4,happy
+KU LO SA - A COLORS SHOW,KU LO SA - A COLORS SHOW,Oxlade,2WigMwGJysIh9fRnSJvpjn,2022-06-10,78,147580,0.649,0.307,0.655,0.0,0.22,0.793,-5.534,0.0652,92.9,10,4,happy
+Moi je joue,Bubble Gum (Vol. 2),Brigitte Bardot,1YvAIf8NVPTlEwInU6mOBk,1994-01-01,0,102666,0.652,0.41,0.742,0.052,0.323,0.736,-9.687,0.0501,106.096,9,4,happy
+Cake By The Ocean,SWAAY,DNCE,42ftjU4cTN5UTRksyqBKZJ,2015-10-23,0,218440,0.771,0.147,0.76,0.0,0.053,0.881,-5.459,0.0514,119.0,4,4,happy

@@ -1,15 +1,45 @@
+import numpy as np 
+import pandas as pd 
+import matplotlib.pyplot as plt
+import seaborn as sns
+import os
+
 import spotipy
 import time
-from IPython.core.display import clear_output
+from IPython.display import clear_output
 from spotipy import SpotifyClientCredentials, util
 import matplotlib.pyplot as plt
 import pandas as pd
+
+#Libraries to create the multiclass model
+from tempfile import TemporaryFile
+from keras.models import Sequential
+from keras.models import load_model
+from keras.layers import Dense
+from keras.wrappers.scikit_learn import KerasClassifier
+from keras.utils import np_utils
+#Import tensorflow and disable the v2 behavior and eager mode
+import tensorflow as tf
+tf.compat.v1.disable_eager_execution()
+tf.compat.v1.disable_v2_behavior()
+
+print(os.path.abspath("."))
+
+
+#Library to validate the model
+from sklearn.model_selection import cross_val_score, KFold, train_test_split
+from sklearn.preprocessing import LabelEncoder,MinMaxScaler
+from sklearn.pipeline import Pipeline
+from sklearn.metrics import confusion_matrix, accuracy_score
 
 client_id='53a0bab29d3b45aeae877299a704298a'
 client_secret='c25929839f5b491893397b47963f503d'
 redirect_uri='http://localhost/'
 username = '31bq4d3qklibebsl4sc6mbmo7u3i'
 scope = 'playlist-modify-public'
+
+X2 = np.load('Spotify_ai/X2.npy')
+encoded_y = np.load('Spotify_ai/X2.npy')
 
 #Credentials to access the Spotify Music Data
 manager = SpotifyClientCredentials(client_id,client_secret)
@@ -70,68 +100,33 @@ def download_playlist(id_playlist,n_songs):
     for ids in songs_id:
         
         if ids != None:
-            track,columns = get_songs_features(ids)
-            tracks.append(track)
-            print(f"Song {counter} Added:")
-            print(f"{track[0]} By {track[2]} from the album {track[1]}")
-            clear_output(wait = True)
-            counter+=1
+            print(predict_mood(ids))
             
-        
     clear_output(wait = True)
     print("Music Downloaded!")
 
-    return tracks, columns
+    return tracks
 
-#energy
-tracks, columns = download_playlist('1BV6g3eusEscbN3qaTA681',200)
-df1 = pd.DataFrame(tracks,columns=columns)
-print(df1)
-mood_1 = []
-for i in range(0,199):
-    mood_1.append('energetic')
-    i = i+1
-df1['Mood'] = mood_1
-df1.head()
-df1.to_csv('Spotify_ai/data/df1.csv',index=False)
+def predict_mood(id_song):
+    #Join the model and the scaler in a Pipeline
+    pip = Pipeline([('minmaxscaler',MinMaxScaler()),('keras',KerasClassifier(build_fn=base_model,epochs=300,
+                                                                             batch_size=200,verbose=0))])
+    #Fit the Pipeline
+    pip.fit(X2,encoded_y)
 
-#sad
-tracks, columns = download_playlist('0DiIiLcScBTTTRgtRkwGxe',156)
-df2 = pd.DataFrame(tracks,columns=columns)
-mood_2 = []
-for i in range(0,156):
-    mood_2.append('sad')
-    i = i+1
-    
-df2['Mood'] = mood_2
-df2.head()
-df2.to_csv('Spotify_ai/data/df2.csv',index=False)
+    #Obtain the features of the song
+    preds = get_songs_features(id_song)
+    #Pre-process the features to input the Model
+    preds_features = np.array(preds[0][6:-2]).reshape(-1,1).T
 
-#happy
-tracks, columns = download_playlist('4AnAUkQNrLKlJCInZGSXRO',200)
-df3 = pd.DataFrame(tracks,columns=columns)
-mood_3 = []
-for i in range(0,200):
-    mood_3.append('happy')
-    i = i+1
-    
-df3['Mood'] = mood_3
-df3.head()
-df3.to_csv('Spotify_ai/data/df3.csv',index=False)
+    #Predict the features of the song
+    results = pip.predict(preds_features)
 
-#calm
-tracks, columns = download_playlist('6TtkO4MdVL36vgNpmF1OyA',200)
-df4 = pd.DataFrame(tracks,columns=columns)
-mood_4 = []
-for i in range(0,200):
-    mood_4.append('calm')
-    i = i+1
-    
-df4['Mood'] = mood_4
-df4.head()
-df4.to_csv('Spotify_ai/data/df4.csv',index=False)
+    mood = np.array(target['mood'][target['encode']==int(results)])
+    name_song = preds[0][0]
+    artist = preds[0][2]
 
-print(df1)
-print(df2)
-print(df3)
-print(df4)
+    return print("{0} by {1} is a {2} song".format(name_song,artist,mood[0].upper()))
+    #print(f"{name_song} by {artist} is a {mood[0].upper()} song")
+
+download_playlist('0522MSmE2fPrk4kSiJ70tw', 11)
