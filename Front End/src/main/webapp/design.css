@@ -1,0 +1,135 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Mar 2, 2023, 7:10:27 p.m.
+    Author     : anuka
+*/
+@font-face {
+    font-family: rantera;
+    src: url(Rantera.otf);
+}
+@font-face {
+    font-family: geoSans;
+    src: url(GeosansLight.ttf);
+}
+
+
+@font-face {
+    font-family: theBoldFont;
+    src: url(THEBOLDFONT.ttf);
+}
+
+@font-face {
+    font-family: sansburg;
+    src: url(Sansberg.ttf);
+}
+h1 {
+    font-family: theBoldFont;
+}
+
+h2 {
+    font-family: rantera;
+}
+
+.subheading {
+    font-family: rantera;
+    font-size: 220%;
+    font-weight: bold;
+}
+
+.captions {
+    font-size: 125%;
+    font-family: geoSans;
+    border-radius: 10%;
+    background-color: rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.crop {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-top: calc(100% * (400 / 300));
+
+}
+
+.aspectratio {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+.topnav {
+    background-color: #F19607;
+    overflow: hidden;
+}
+.topnav h1 {
+    text-align: center;
+    color: white;
+    font-family: theBoldFont;
+    font-size: 200%;
+}
+
+.footernav {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #333;
+    overflow: hidden;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+/* Style the links inside the navigation bar */
+.footernav a {
+    float: center;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 5%;
+    text-decoration: none;
+
+}
+
+/* Change the color of links on hover */
+.footernav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* Add a color to the active/current link */
+.footernav a.active {
+    background-color: #F19607;
+    color: white;
+}
+
+
+
+/* width */
+::-webkit-scrollbar {
+    width: 10%;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 5%;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 5%;
+}
+
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
